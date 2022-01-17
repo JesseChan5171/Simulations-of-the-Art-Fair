@@ -1,0 +1,7 @@
+D,2
+n,20
+N,100
+Booth_promotion_time,"[10, 8, 3, 4, 1, 10, 3, 4, 3, 10, 7, 10, 2, 10, 3, 2, 3, 9, 10, 7]"
+Student_file,student_default_random90.csv
+Log_file,simulation_log90.csv
+Summary_file,simulation_summary90.csv

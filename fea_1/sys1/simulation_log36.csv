@@ -1,0 +1,2195 @@
+Day,Time,Event,len(Queue)
+1,11:01,Student 19 arrives Art Fair,NA
+1,11:02,Student 93 arrives Art Fair,NA
+1,11:03,Student 19 arrives at booth 3,1
+1,11:03,Student 43 arrives Art Fair,NA
+1,11:03,Student 93 arrives at booth 2,1
+1,11:05,Student 43 arrives at booth 3,1
+1,11:13,Student 75 arrives Art Fair,NA
+1,11:13,Student 93 departs at booth 2,0
+1,11:13,Student 19 departs at booth 3,1
+1,11:14,Student 41 arrives Art Fair,NA
+1,11:15,Student 93 arrives at booth 5,1
+1,11:16,Student 48 arrives Art Fair,NA
+1,11:17,Student 41 arrives at booth 5,1
+1,11:17,Student 48 arrives at booth 2,1
+1,11:17,Student 75 arrives at booth 8,1
+1,11:19,Student 19 arrives at booth 16,1
+1,11:20,Student 2 arrives Art Fair,NA
+1,11:20,Student 47 arrives Art Fair,NA
+1,11:20,Student 75 departs at booth 8,0
+1,11:21,Student 47 arrives at booth 1,1
+1,11:21,Student 93 departs at booth 5,1
+1,11:22,Student 6 arrives Art Fair,NA
+1,11:22,Student 93 arrives at booth 7,1
+1,11:23,Student 2 arrives at booth 5,1
+1,11:23,Student 6 arrives at booth 1,1
+1,11:23,Student 75 arrives at booth 14,1
+1,11:23,Student 43 departs at booth 3,0
+1,11:24,Student 43 arrives at booth 6,1
+1,11:24,Student 47 departs at booth 1,1
+1,11:24,Student 93 departs at booth 7,0
+1,11:24,Student 19 departs at booth 16,0
+1,11:25,Student 50 arrives Art Fair,NA
+1,11:25,Student 63 arrives Art Fair,NA
+1,11:26,Student 19 arrives at booth 19,1
+1,11:26,Student 63 arrives at booth 1,1
+1,11:26,Student 93 arrives at booth 11,1
+1,11:27,Student 6 departs at booth 1,1
+1,11:27,Student 48 departs at booth 2,0
+1,11:27,Student 41 departs at booth 5,1
+1,11:27,Student 41 arrives at booth 6,1
+1,11:28,Student 47 arrives at booth 10,1
+1,11:28,Student 93 departs at booth 11,0
+1,11:29,Student 48 arrives at booth 6,2
+1,11:29,Student 50 arrives at booth 7,1
+1,11:29,Student 43 departs at booth 6,2
+1,11:29,Student 47 departs at booth 10,0
+1,11:30,Student 6 arrives at booth 7,1
+1,11:30,Student 43 arrives at booth 8,1
+1,11:30,Student 47 arrives at booth 11,1
+1,11:30,Student 63 departs at booth 1,0
+1,11:30,Student 19 departs at booth 19,0
+1,11:30,Student 19 arrives at booth 20,1
+1,11:31,Student 63 arrives at booth 3,1
+1,11:31,Student 50 departs at booth 7,1
+1,11:32,Student 50 arrives at booth 10,1
+1,11:32,Student 88 arrives Art Fair,NA
+1,11:32,Student 93 arrives at booth 20,1
+1,11:32,Student 47 departs at booth 11,0
+1,11:33,Student 47 arrives at booth 13,1
+1,11:33,Student 2 departs at booth 5,0
+1,11:33,Student 6 departs at booth 7,0
+1,11:33,Student 43 departs at booth 8,0
+1,11:33,Student 50 departs at booth 10,0
+1,11:33,Student 75 departs at booth 14,0
+1,11:34,Student 6 arrives at booth 10,1
+1,11:34,Student 50 arrives at booth 11,1
+1,11:34,Student 41 departs at booth 6,1
+1,11:35,Student 2 arrives at booth 10,1
+1,11:35,Student 75 arrives at booth 18,1
+1,11:35,Student 82 arrives Art Fair,NA
+1,11:35,Student 6 departs at booth 10,1
+1,11:36,Student 2 departs at booth 10,0
+1,11:36,Student 50 departs at booth 11,0
+1,11:37,Student 43 arrives at booth 15,1
+1,11:37,Student 50 arrives at booth 14,1
+1,11:37,Student 82 arrives at booth 4,1
+1,11:37,Student 88 arrives at booth 9,1
+1,11:37,Student 47 departs at booth 13,0
+1,11:38,Student 2 arrives at booth 13,1
+1,11:38,Student 41 arrives at booth 13,2
+1,11:39,Student 47 arrives at booth 17,1
+1,11:39,Student 48 departs at booth 6,0
+1,11:39,Student 88 departs at booth 9,0
+1,11:39,Student 19 departs at booth 20,1
+1,11:39,Student 88 arrives at booth 10,1
+1,11:40,Student 6 departs Art Fair,NA
+1,11:40,Student 19 departs Art Fair,NA
+1,11:40,Student 88 departs at booth 10,0
+1,11:41,Student 48 arrives at booth 10,1
+1,11:41,Student 88 arrives at booth 11,1
+1,11:41,Student 63 departs at booth 3,0
+1,11:41,Student 43 departs at booth 15,0
+1,11:41,Student 75 departs at booth 18,0
+1,11:41,Student 63 arrives at booth 4,1
+1,11:42,Student 62 arrives Art Fair,NA
+1,11:42,Student 75 arrives at booth 19,1
+1,11:42,Student 48 departs at booth 10,0
+1,11:42,Student 2 departs at booth 13,1
+1,11:42,Student 2 arrives at booth 14,1
+1,11:43,Student 43 arrives at booth 19,1
+1,11:43,Student 88 departs at booth 11,0
+1,11:43,Student 47 departs at booth 17,0
+1,11:44,Student 47 arrives at booth 19,2
+1,11:44,Student 48 arrives at booth 13,1
+1,11:44,Student 82 departs at booth 4,1
+1,11:46,Student 88 arrives at booth 18,1
+1,11:46,Student 41 departs at booth 13,1
+1,11:46,Student 75 departs at booth 19,2
+1,11:47,Student 36 arrives Art Fair,NA
+1,11:47,Student 75 departs Art Fair,NA
+1,11:47,Student 50 departs at booth 14,1
+1,11:48,Student 62 arrives at booth 11,1
+1,11:48,Student 82 arrives at booth 11,2
+1,11:48,Student 93 departs at booth 20,0
+1,11:49,Student 36 arrives at booth 3,1
+1,11:49,Student 93 departs Art Fair,NA
+1,11:50,Student 41 departs Art Fair,NA
+1,11:50,Student 50 arrives at booth 19,2
+1,11:50,Student 62 departs at booth 11,1
+1,11:50,Student 48 departs at booth 13,0
+1,11:50,Student 43 departs at booth 19,2
+1,11:51,Student 26 arrives Art Fair,NA
+1,11:51,Student 43 departs Art Fair,NA
+1,11:51,Student 62 arrives at booth 13,1
+1,11:51,Student 63 departs at booth 4,0
+1,11:52,Student 26 arrives at booth 1,1
+1,11:52,Student 82 departs at booth 11,0
+1,11:52,Student 88 departs at booth 18,0
+1,11:52,Student 82 arrives at booth 12,1
+1,11:53,Student 48 arrives at booth 20,1
+1,11:53,Student 88 arrives at booth 19,2
+1,11:54,Student 47 departs at booth 19,2
+1,11:55,Student 47 departs Art Fair,NA
+1,11:55,Student 63 arrives at booth 11,1
+1,11:55,Student 26 departs at booth 1,0
+1,11:55,Student 82 departs at booth 12,0
+1,11:55,Student 62 departs at booth 13,0
+1,11:55,Student 62 arrives at booth 14,1
+1,11:56,Student 26 arrives at booth 3,1
+1,11:57,Student 82 arrives at booth 16,1
+1,11:57,Student 63 departs at booth 11,0
+1,11:57,Student 2 departs at booth 14,1
+1,11:57,Student 63 arrives at booth 12,1
+1,11:58,Student 2 arrives at booth 15,1
+1,11:58,Student 50 departs at booth 19,1
+1,11:59,Student 50 departs Art Fair,NA
+1,11:59,Student 36 departs at booth 3,1
+1,12:00,Student 76 arrives Art Fair,NA
+1,12:00,Student 63 departs at booth 12,0
+1,12:01,Student 76 arrives at booth 2,1
+1,12:02,Student 2 departs at booth 15,0
+1,12:02,Student 82 departs at booth 16,0
+1,12:02,Student 88 departs at booth 19,0
+1,12:02,Student 48 departs at booth 20,0
+1,12:03,Student 36 arrives at booth 12,1
+1,12:03,Student 48 departs Art Fair,NA
+1,12:03,Student 88 departs Art Fair,NA
+1,12:04,Student 2 arrives at booth 20,1
+1,12:05,Student 63 departs Art Fair,NA
+1,12:05,Student 82 departs Art Fair,NA
+1,12:06,Student 49 arrives Art Fair,NA
+1,12:06,Student 36 departs at booth 12,0
+1,12:07,Student 62 departs at booth 14,0
+1,12:09,Student 36 arrives at booth 17,1
+1,12:09,Student 26 departs at booth 3,0
+1,12:10,Student 26 arrives at booth 5,1
+1,12:11,Student 62 departs Art Fair,NA
+1,12:11,Student 76 departs at booth 2,0
+1,12:12,Student 49 arrives at booth 12,1
+1,12:13,Student 96 arrives Art Fair,NA
+1,12:13,Student 36 departs at booth 17,0
+1,12:13,Student 2 departs at booth 20,0
+1,12:14,Student 2 departs Art Fair,NA
+1,12:14,Student 68 arrives Art Fair,NA
+1,12:15,Student 36 departs Art Fair,NA
+1,12:15,Student 76 arrives at booth 9,1
+1,12:15,Student 49 departs at booth 12,0
+1,12:16,Student 49 arrives at booth 13,1
+1,12:16,Student 68 arrives at booth 3,1
+1,12:16,Student 96 arrives at booth 5,1
+1,12:16,Student 26 departs at booth 5,1
+1,12:17,Student 3 arrives Art Fair,NA
+1,12:17,Student 76 departs at booth 9,0
+1,12:18,Student 64 arrives Art Fair,NA
+1,12:18,Student 76 arrives at booth 11,1
+1,12:19,Student 64 arrives at booth 2,1
+1,12:20,Student 76 departs at booth 11,0
+1,12:20,Student 49 departs at booth 13,0
+1,12:21,Student 60 arrives Art Fair,NA
+1,12:21,Student 76 arrives at booth 14,1
+1,12:22,Student 3 arrives at booth 10,1
+1,12:22,Student 26 arrives at booth 17,1
+1,12:22,Student 49 arrives at booth 17,2
+1,12:22,Student 60 arrives at booth 2,1
+1,12:22,Student 96 departs at booth 5,0
+1,12:23,Student 77 arrives Art Fair,NA
+1,12:23,Student 3 departs at booth 10,0
+1,12:24,Student 3 arrives at booth 12,1
+1,12:24,Student 96 arrives at booth 9,1
+1,12:26,Student 39 arrives Art Fair,NA
+1,12:26,Student 77 arrives at booth 6,1
+1,12:26,Student 68 departs at booth 3,0
+1,12:26,Student 96 departs at booth 9,0
+1,12:26,Student 26 departs at booth 17,1
+1,12:27,Student 68 arrives at booth 6,1
+1,12:27,Student 3 departs at booth 12,0
+1,12:28,Student 3 arrives at booth 14,1
+1,12:28,Student 26 departs Art Fair,NA
+1,12:29,Student 39 arrives at booth 5,1
+1,12:29,Student 64 departs at booth 2,1
+1,12:30,Student 49 departs at booth 17,0
+1,12:30,Student 49 arrives at booth 18,1
+1,12:31,Student 96 arrives at booth 19,1
+1,12:31,Student 77 departs at booth 6,1
+1,12:31,Student 76 departs at booth 14,1
+1,12:32,Student 35 arrives Art Fair,NA
+1,12:33,Student 64 arrives at booth 10,1
+1,12:33,Student 76 arrives at booth 18,1
+1,12:34,Student 64 departs at booth 10,0
+1,12:35,Student 64 arrives at booth 12,1
+1,12:35,Student 77 arrives at booth 13,1
+1,12:35,Student 39 departs at booth 5,0
+1,12:35,Student 96 departs at booth 19,0
+1,12:36,Student 35 arrives at booth 7,1
+1,12:36,Student 96 departs Art Fair,NA
+1,12:36,Student 68 departs at booth 6,0
+1,12:36,Student 49 departs at booth 18,1
+1,12:37,Student 68 arrives at booth 7,1
+1,12:37,Student 85 arrives Art Fair,NA
+1,12:38,Student 49 departs Art Fair,NA
+1,12:38,Student 85 arrives at booth 2,1
+1,12:38,Student 35 departs at booth 7,1
+1,12:38,Student 64 departs at booth 12,0
+1,12:39,Student 35 arrives at booth 9,1
+1,12:39,Student 60 departs at booth 2,1
+1,12:39,Student 77 departs at booth 13,0
+1,12:40,Student 39 arrives at booth 15,1
+1,12:40,Student 60 arrives at booth 3,1
+1,12:40,Student 64 arrives at booth 15,2
+1,12:40,Student 68 departs at booth 7,0
+1,12:41,Student 35 departs at booth 9,0
+1,12:41,Student 3 departs at booth 14,0
+1,12:42,Student 35 arrives at booth 12,1
+1,12:42,Student 68 arrives at booth 11,1
+1,12:42,Student 77 arrives at booth 19,1
+1,12:42,Student 76 departs at booth 18,0
+1,12:44,Student 3 arrives at booth 19,1
+1,12:44,Student 76 departs Art Fair,NA
+1,12:44,Student 68 departs at booth 11,0
+1,12:44,Student 39 departs at booth 15,1
+1,12:44,Student 39 arrives at booth 16,1
+1,12:45,Student 68 arrives at booth 14,1
+1,12:45,Student 35 departs at booth 12,0
+1,12:46,Student 77 departs at booth 19,1
+1,12:47,Student 35 arrives at booth 15,1
+1,12:47,Student 59 arrives Art Fair,NA
+1,12:47,Student 77 departs Art Fair,NA
+1,12:48,Student 59 arrives at booth 1,1
+1,12:48,Student 64 departs at booth 15,1
+1,12:49,Student 1 arrives Art Fair,NA
+1,12:49,Student 85 departs at booth 2,0
+1,12:49,Student 39 departs at booth 16,0
+1,12:50,Student 85 arrives at booth 3,1
+1,12:50,Student 60 departs at booth 3,1
+1,12:50,Student 3 departs at booth 19,0
+1,12:51,Student 1 arrives at booth 3,1
+1,12:51,Student 3 departs Art Fair,NA
+1,12:51,Student 64 departs Art Fair,NA
+1,12:51,Student 59 departs at booth 1,0
+1,12:52,Student 27 arrives Art Fair,NA
+1,12:52,Student 39 departs Art Fair,NA
+1,12:52,Student 35 departs at booth 15,0
+1,12:53,Student 30 arrives Art Fair,NA
+1,12:53,Student 35 arrives at booth 17,1
+1,12:54,Student 60 arrives at booth 12,1
+1,12:55,Student 30 arrives at booth 4,1
+1,12:55,Student 40 arrives Art Fair,NA
+1,12:55,Student 68 departs at booth 14,0
+1,12:56,Student 27 arrives at booth 8,1
+1,12:56,Student 59 arrives at booth 11,1
+1,12:57,Student 40 arrives at booth 4,1
+1,12:57,Student 60 departs at booth 12,0
+1,12:57,Student 35 departs at booth 17,0
+1,12:58,Student 35 arrives at booth 20,1
+1,12:58,Student 68 arrives at booth 19,1
+1,12:58,Student 59 departs at booth 11,0
+1,12:59,Student 27 departs at booth 8,0
+1,13:00,Student 27 arrives at booth 9,1
+1,13:00,Student 59 arrives at booth 16,1
+1,13:00,Student 60 arrives at booth 18,1
+1,13:00,Student 85 departs at booth 3,1
+1,13:02,Student 85 arrives at booth 8,1
+1,13:02,Student 90 arrives Art Fair,NA
+1,13:02,Student 30 departs at booth 4,1
+1,13:02,Student 27 departs at booth 9,0
+1,13:02,Student 68 departs at booth 19,0
+1,13:03,Student 68 departs Art Fair,NA
+1,13:03,Student 90 arrives at booth 1,1
+1,13:05,Student 85 departs at booth 8,0
+1,13:05,Student 59 departs at booth 16,0
+1,13:06,Student 27 arrives at booth 18,1
+1,13:06,Student 30 arrives at booth 11,1
+1,13:06,Student 90 departs at booth 1,0
+1,13:06,Student 60 departs at booth 18,1
+1,13:07,Student 59 arrives at booth 19,1
+1,13:07,Student 60 arrives at booth 20,1
+1,13:07,Student 90 arrives at booth 4,1
+1,13:07,Student 35 departs at booth 20,1
+1,13:08,Student 35 departs Art Fair,NA
+1,13:08,Student 85 arrives at booth 13,1
+1,13:08,Student 30 departs at booth 11,0
+1,13:08,Student 30 arrives at booth 12,1
+1,13:09,Student 40 departs at booth 4,1
+1,13:10,Student 40 arrives at booth 6,1
+1,13:10,Student 1 departs at booth 3,0
+1,13:11,Student 79 arrives Art Fair,NA
+1,13:11,Student 30 departs at booth 12,0
+1,13:11,Student 59 departs at booth 19,0
+1,13:12,Student 12 arrives Art Fair,NA
+1,13:12,Student 59 departs Art Fair,NA
+1,13:12,Student 79 arrives at booth 1,1
+1,13:12,Student 85 departs at booth 13,0
+1,13:12,Student 27 departs at booth 18,0
+1,13:13,Student 12 arrives at booth 1,1
+1,13:13,Student 30 arrives at booth 16,1
+1,13:14,Student 27 departs Art Fair,NA
+1,13:15,Student 37 arrives Art Fair,NA
+1,13:15,Student 85 arrives at booth 19,1
+1,13:15,Student 79 departs at booth 1,1
+1,13:15,Student 40 departs at booth 6,0
+1,13:15,Student 79 arrives at booth 2,1
+1,13:16,Student 90 departs at booth 4,0
+1,13:16,Student 60 departs at booth 20,0
+1,13:17,Student 1 arrives at booth 17,1
+1,13:17,Student 37 arrives at booth 4,1
+1,13:17,Student 60 departs Art Fair,NA
+1,13:17,Student 90 arrives at booth 6,1
+1,13:18,Student 12 departs at booth 1,0
+1,13:18,Student 30 departs at booth 16,0
+1,13:19,Student 12 arrives at booth 3,1
+1,13:19,Student 30 arrives at booth 18,1
+1,13:19,Student 86 arrives Art Fair,NA
+1,13:19,Student 85 departs at booth 19,0
+1,13:19,Student 85 arrives at booth 20,1
+1,13:21,Student 40 arrives at booth 17,1
+1,13:21,Student 1 departs at booth 17,1
+1,13:22,Student 1 arrives at booth 20,1
+1,13:22,Student 90 departs at booth 6,0
+1,13:24,Student 22 arrives Art Fair,NA
+1,13:24,Student 86 arrives at booth 9,1
+1,13:24,Student 90 arrives at booth 9,2
+1,13:24,Student 37 departs at booth 4,0
+1,13:25,Student 22 arrives at booth 2,1
+1,13:25,Student 79 departs at booth 2,1
+1,13:25,Student 40 departs at booth 17,0
+1,13:25,Student 30 departs at booth 18,0
+1,13:26,Student 40 arrives at booth 20,2
+1,13:26,Student 86 departs at booth 9,1
+1,13:26,Student 86 arrives at booth 10,1
+1,13:27,Student 30 departs Art Fair,NA
+1,13:27,Student 86 departs at booth 10,0
+1,13:28,Student 5 arrives Art Fair,NA
+1,13:28,Student 79 arrives at booth 7,1
+1,13:28,Student 86 arrives at booth 11,1
+1,13:28,Student 90 departs at booth 9,0
+1,13:28,Student 85 departs at booth 20,2
+1,13:29,Student 5 arrives at booth 1,1
+1,13:29,Student 16 arrives Art Fair,NA
+1,13:29,Student 54 arrives Art Fair,NA
+1,13:29,Student 85 departs Art Fair,NA
+1,13:29,Student 90 arrives at booth 12,1
+1,13:29,Student 12 departs at booth 3,0
+1,13:30,Student 37 arrives at booth 16,1
+1,13:30,Student 79 departs at booth 7,0
+1,13:30,Student 86 departs at booth 11,0
+1,13:30,Student 86 arrives at booth 12,1
+1,13:32,Student 12 arrives at booth 9,1
+1,13:32,Student 54 arrives at booth 5,1
+1,13:32,Student 5 departs at booth 1,0
+1,13:32,Student 90 departs at booth 12,1
+1,13:34,Student 16 arrives at booth 9,1
+1,13:34,Student 79 arrives at booth 16,1
+1,13:34,Student 90 arrives at booth 15,1
+1,13:34,Student 12 departs at booth 9,1
+1,13:35,Student 5 arrives at booth 8,1
+1,13:35,Student 12 arrives at booth 12,1
+1,13:35,Student 95 arrives Art Fair,NA
+1,13:35,Student 22 departs at booth 2,0
+1,13:35,Student 86 departs at booth 12,1
+1,13:35,Student 37 departs at booth 16,1
+1,13:36,Student 37 arrives at booth 17,1
+1,13:36,Student 95 arrives at booth 1,1
+1,13:36,Student 16 departs at booth 9,0
+1,13:37,Student 1 departs at booth 20,1
+1,13:38,Student 1 departs Art Fair,NA
+1,13:38,Student 22 arrives at booth 8,1
+1,13:38,Student 54 departs at booth 5,0
+1,13:38,Student 5 departs at booth 8,1
+1,13:38,Student 12 departs at booth 12,0
+1,13:38,Student 90 departs at booth 15,0
+1,13:39,Student 16 arrives at booth 15,1
+1,13:39,Student 54 arrives at booth 7,1
+1,13:39,Student 95 departs at booth 1,0
+1,13:39,Student 95 arrives at booth 2,1
+1,13:40,Student 5 arrives at booth 11,1
+1,13:40,Student 57 arrives Art Fair,NA
+1,13:40,Student 69 arrives Art Fair,NA
+1,13:40,Student 86 departs Art Fair,NA
+1,13:40,Student 79 departs at booth 16,0
+1,13:40,Student 37 departs at booth 17,0
+1,13:41,Student 12 arrives at booth 17,1
+1,13:41,Student 57 arrives at booth 2,1
+1,13:41,Student 69 arrives at booth 1,1
+1,13:41,Student 90 departs Art Fair,NA
+1,13:41,Student 54 departs at booth 7,0
+1,13:41,Student 22 departs at booth 8,0
+1,13:42,Student 37 departs Art Fair,NA
+1,13:42,Student 97 arrives Art Fair,NA
+1,13:42,Student 5 departs at booth 11,0
+1,13:42,Student 5 arrives at booth 12,1
+1,13:43,Student 13 arrives Art Fair,NA
+1,13:43,Student 54 arrives at booth 12,1
+1,13:43,Student 79 departs Art Fair,NA
+1,13:43,Student 97 arrives at booth 1,1
+1,13:43,Student 16 departs at booth 15,0
+1,13:44,Student 22 arrives at booth 13,1
+1,13:44,Student 69 departs at booth 1,1
+1,13:45,Student 13 arrives at booth 3,1
+1,13:45,Student 16 arrives at booth 19,1
+1,13:45,Student 5 departs at booth 12,1
+1,13:45,Student 12 departs at booth 17,0
+1,13:45,Student 12 arrives at booth 18,1
+1,13:46,Student 69 arrives at booth 5,1
+1,13:46,Student 40 departs at booth 20,0
+1,13:47,Student 40 departs Art Fair,NA
+1,13:47,Student 84 arrives Art Fair,NA
+1,13:47,Student 97 departs at booth 1,0
+1,13:48,Student 54 departs at booth 12,0
+1,13:48,Student 22 departs at booth 13,0
+1,13:48,Student 22 arrives at booth 14,1
+1,13:49,Student 5 arrives at booth 19,1
+1,13:49,Student 95 departs at booth 2,1
+1,13:49,Student 16 departs at booth 19,1
+1,13:50,Student 16 departs Art Fair,NA
+1,13:50,Student 84 arrives at booth 6,1
+1,13:51,Student 95 arrives at booth 5,1
+1,13:51,Student 97 arrives at booth 10,1
+1,13:51,Student 12 departs at booth 18,0
+1,13:52,Student 69 departs at booth 5,1
+1,13:52,Student 97 departs at booth 10,0
+1,13:53,Student 12 departs Art Fair,NA
+1,13:53,Student 54 departs Art Fair,NA
+1,13:53,Student 69 arrives at booth 7,1
+1,13:53,Student 5 departs at booth 19,0
+1,13:54,Student 5 departs Art Fair,NA
+1,13:54,Student 97 arrives at booth 13,1
+1,13:55,Student 13 departs at booth 3,0
+1,13:55,Student 84 departs at booth 6,0
+1,13:55,Student 69 departs at booth 7,0
+1,13:55,Student 69 arrives at booth 8,1
+1,13:58,Student 95 departs at booth 5,0
+1,13:58,Student 69 departs at booth 8,0
+1,13:58,Student 97 departs at booth 13,0
+1,13:58,Student 22 departs at booth 14,0
+1,13:58,Student 97 arrives at booth 14,1
+1,13:59,Student 13 arrives at booth 11,1
+1,13:59,Student 84 arrives at booth 14,1
+1,13:59,Student 57 departs at booth 2,0
+1,14:00,Student 7 arrives Art Fair,NA
+1,14:00,Student 57 arrives at booth 4,1
+1,14:00,Student 69 arrives at booth 12,1
+1,14:01,Student 7 arrives at booth 2,1
+1,14:01,Student 22 arrives at booth 19,1
+1,14:01,Student 13 departs at booth 11,0
+1,14:02,Student 95 arrives at booth 13,1
+1,14:03,Student 13 arrives at booth 15,1
+1,14:03,Student 69 departs at booth 12,0
+1,14:04,Student 69 arrives at booth 14,2
+1,14:05,Student 22 departs at booth 19,0
+1,14:06,Student 22 departs Art Fair,NA
+1,14:06,Student 51 arrives Art Fair,NA
+1,14:06,Student 95 departs at booth 13,0
+1,14:07,Student 95 arrives at booth 15,1
+1,14:07,Student 57 departs at booth 4,0
+1,14:07,Student 13 departs at booth 15,1
+1,14:08,Student 51 arrives at booth 4,1
+1,14:08,Student 97 departs at booth 14,2
+1,14:10,Student 13 departs Art Fair,NA
+1,14:10,Student 97 arrives at booth 17,1
+1,14:11,Student 57 arrives at booth 12,1
+1,14:11,Student 7 departs at booth 2,0
+1,14:11,Student 95 departs at booth 15,0
+1,14:12,Student 78 arrives Art Fair,NA
+1,14:12,Student 95 arrives at booth 17,1
+1,14:14,Student 7 arrives at booth 7,1
+1,14:14,Student 57 departs at booth 12,0
+1,14:14,Student 97 departs at booth 17,1
+1,14:15,Student 78 arrives at booth 6,1
+1,14:15,Student 97 arrives at booth 19,1
+1,14:15,Student 51 departs at booth 4,0
+1,14:16,Student 51 arrives at booth 5,1
+1,14:16,Student 57 arrives at booth 16,1
+1,14:16,Student 58 arrives Art Fair,NA
+1,14:16,Student 7 departs at booth 7,0
+1,14:17,Student 7 arrives at booth 9,1
+1,14:18,Student 58 arrives at booth 3,1
+1,14:18,Student 84 departs at booth 14,1
+1,14:18,Student 95 departs at booth 17,0
+1,14:19,Student 84 arrives at booth 16,1
+1,14:19,Student 7 departs at booth 9,0
+1,14:19,Student 97 departs at booth 19,0
+1,14:19,Student 7 arrives at booth 10,1
+1,14:20,Student 95 departs Art Fair,NA
+1,14:20,Student 97 departs Art Fair,NA
+1,14:20,Student 78 departs at booth 6,0
+1,14:20,Student 7 departs at booth 10,0
+1,14:21,Student 57 departs at booth 16,1
+1,14:22,Student 78 arrives at booth 10,1
+1,14:22,Student 51 departs at booth 5,0
+1,14:23,Student 7 arrives at booth 16,1
+1,14:23,Student 51 arrives at booth 8,1
+1,14:23,Student 78 departs at booth 10,0
+1,14:24,Student 57 departs Art Fair,NA
+1,14:24,Student 78 arrives at booth 11,1
+1,14:26,Student 51 departs at booth 8,0
+1,14:26,Student 78 departs at booth 11,0
+1,14:26,Student 84 departs at booth 16,1
+1,14:27,Student 21 arrives Art Fair,NA
+1,14:27,Student 24 arrives Art Fair,NA
+1,14:27,Student 78 arrives at booth 14,1
+1,14:27,Student 84 arrives at booth 17,1
+1,14:28,Student 21 arrives at booth 1,1
+1,14:28,Student 58 departs at booth 3,0
+1,14:28,Student 69 departs at booth 14,1
+1,14:28,Student 58 arrives at booth 4,1
+1,14:29,Student 73 arrives Art Fair,NA
+1,14:30,Student 24 arrives at booth 5,1
+1,14:30,Student 51 arrives at booth 15,1
+1,14:31,Student 21 departs at booth 1,0
+1,14:31,Student 7 departs at booth 16,0
+1,14:31,Student 84 departs at booth 17,0
+1,14:32,Student 21 arrives at booth 4,1
+1,14:32,Student 69 departs Art Fair,NA
+1,14:32,Student 73 arrives at booth 5,1
+1,14:33,Student 84 departs Art Fair,NA
+1,14:34,Student 7 departs Art Fair,NA
+1,14:34,Student 51 departs at booth 15,0
+1,14:35,Student 51 arrives at booth 17,1
+1,14:35,Student 89 arrives Art Fair,NA
+1,14:35,Student 58 departs at booth 4,1
+1,14:36,Student 11 arrives Art Fair,NA
+1,14:36,Student 24 departs at booth 5,1
+1,14:37,Student 11 arrives at booth 1,1
+1,14:37,Student 24 arrives at booth 8,1
+1,14:37,Student 58 arrives at booth 7,1
+1,14:37,Student 89 arrives at booth 3,1
+1,14:38,Student 78 departs at booth 14,0
+1,14:39,Student 10 arrives Art Fair,NA
+1,14:39,Student 78 arrives at booth 16,1
+1,14:39,Student 58 departs at booth 7,0
+1,14:39,Student 51 departs at booth 17,0
+1,14:40,Student 58 arrives at booth 9,1
+1,14:40,Student 11 departs at booth 1,0
+1,14:40,Student 24 departs at booth 8,0
+1,14:41,Student 10 arrives at booth 3,1
+1,14:41,Student 51 departs Art Fair,NA
+1,14:41,Student 94 arrives Art Fair,NA
+1,14:42,Student 11 arrives at booth 6,1
+1,14:42,Student 61 arrives Art Fair,NA
+1,14:42,Student 94 arrives at booth 2,1
+1,14:42,Student 21 departs at booth 4,0
+1,14:42,Student 73 departs at booth 5,0
+1,14:42,Student 58 departs at booth 9,0
+1,14:42,Student 73 arrives at booth 6,1
+1,14:43,Student 21 arrives at booth 6,2
+1,14:43,Student 58 arrives at booth 12,1
+1,14:44,Student 24 arrives at booth 16,1
+1,14:44,Student 78 departs at booth 16,1
+1,14:45,Student 61 arrives at booth 5,1
+1,14:46,Student 58 departs at booth 12,0
+1,14:47,Student 58 arrives at booth 13,1
+1,14:47,Student 78 departs Art Fair,NA
+1,14:47,Student 89 departs at booth 3,1
+1,14:47,Student 11 departs at booth 6,2
+1,14:49,Student 11 arrives at booth 10,1
+1,14:49,Student 89 arrives at booth 7,1
+1,14:49,Student 24 departs at booth 16,0
+1,14:50,Student 45 arrives Art Fair,NA
+1,14:50,Student 11 departs at booth 10,0
+1,14:51,Student 61 departs at booth 5,0
+1,14:51,Student 89 departs at booth 7,0
+1,14:51,Student 58 departs at booth 13,0
+1,14:52,Student 24 departs Art Fair,NA
+1,14:52,Student 89 arrives at booth 9,1
+1,14:52,Student 94 departs at booth 2,0
+1,14:52,Student 73 departs at booth 6,1
+1,14:53,Student 11 arrives at booth 16,1
+1,14:53,Student 73 arrives at booth 7,1
+1,14:53,Student 94 arrives at booth 3,1
+1,14:54,Student 61 arrives at booth 11,1
+1,14:54,Student 89 departs at booth 9,0
+1,14:54,Student 89 arrives at booth 10,1
+1,14:55,Student 45 arrives at booth 9,1
+1,14:55,Student 58 departs Art Fair,NA
+1,14:55,Student 67 arrives Art Fair,NA
+1,14:55,Student 73 departs at booth 7,0
+1,14:55,Student 89 departs at booth 10,0
+1,14:55,Student 73 arrives at booth 8,1
+1,14:56,Student 89 arrives at booth 11,1
+1,14:56,Student 61 departs at booth 11,1
+1,14:57,Student 61 arrives at booth 13,1
+1,14:57,Student 10 departs at booth 3,1
+1,14:57,Student 21 departs at booth 6,0
+1,14:57,Student 45 departs at booth 9,0
+1,14:58,Student 10 arrives at booth 6,1
+1,14:58,Student 45 arrives at booth 11,1
+1,14:58,Student 73 departs at booth 8,0
+1,14:58,Student 89 departs at booth 11,1
+1,14:58,Student 11 departs at booth 16,0
+1,14:59,Student 11 arrives at booth 18,1
+1,14:59,Student 25 arrives Art Fair,NA
+1,14:59,Student 67 arrives at booth 8,1
+1,15:00,Student 21 arrives at booth 11,1
+1,15:00,Student 25 arrives at booth 1,1
+1,15:00,Student 31 arrives Art Fair,NA
+1,15:00,Student 45 departs at booth 11,1
+1,15:01,Student 45 arrives at booth 14,1
+1,15:01,Student 61 departs at booth 13,0
+1,15:02,Student 87 arrives Art Fair,NA
+1,15:02,Student 98 arrives Art Fair,NA
+1,15:02,Student 67 departs at booth 8,0
+1,15:02,Student 21 departs at booth 11,0
+1,15:02,Student 21 arrives at booth 12,1
+1,15:03,Student 31 arrives at booth 5,1
+1,15:03,Student 89 departs Art Fair,NA
+1,15:03,Student 25 departs at booth 1,0
+1,15:03,Student 10 departs at booth 6,0
+1,15:04,Student 72 arrives Art Fair,NA
+1,15:04,Student 73 arrives at booth 19,1
+1,15:04,Student 87 arrives at booth 4,1
+1,15:05,Student 25 arrives at booth 5,1
+1,15:05,Student 61 departs Art Fair,NA
+1,15:05,Student 72 arrives at booth 1,1
+1,15:05,Student 21 departs at booth 12,0
+1,15:05,Student 11 departs at booth 18,0
+1,15:06,Student 11 arrives at booth 19,1
+1,15:06,Student 67 arrives at booth 15,1
+1,15:06,Student 98 arrives at booth 7,1
+1,15:07,Student 94 departs at booth 3,0
+1,15:08,Student 21 arrives at booth 18,1
+1,15:08,Student 72 departs at booth 1,0
+1,15:08,Student 98 departs at booth 7,0
+1,15:08,Student 73 departs at booth 19,1
+1,15:09,Student 10 arrives at booth 17,1
+1,15:09,Student 72 arrives at booth 4,1
+1,15:09,Student 73 departs Art Fair,NA
+1,15:09,Student 94 arrives at booth 7,1
+1,15:09,Student 31 departs at booth 5,1
+1,15:10,Student 98 arrives at booth 12,1
+1,15:10,Student 67 departs at booth 15,0
+1,15:11,Student 31 arrives at booth 10,1
+1,15:11,Student 67 arrives at booth 18,1
+1,15:11,Student 87 departs at booth 4,1
+1,15:11,Student 94 departs at booth 7,0
+1,15:11,Student 45 departs at booth 14,0
+1,15:12,Student 45 arrives at booth 15,1
+1,15:12,Student 87 arrives at booth 5,1
+1,15:12,Student 31 departs at booth 10,0
+1,15:12,Student 11 departs at booth 19,0
+1,15:13,Student 11 departs Art Fair,NA
+1,15:13,Student 31 arrives at booth 12,1
+1,15:13,Student 98 departs at booth 12,1
+1,15:13,Student 10 departs at booth 17,0
+1,15:14,Student 10 arrives at booth 19,1
+1,15:14,Student 21 departs at booth 18,1
+1,15:15,Student 25 departs at booth 5,1
+1,15:16,Student 21 departs Art Fair,NA
+1,15:16,Student 98 arrives at booth 17,1
+1,15:16,Student 31 departs at booth 12,0
+1,15:16,Student 45 departs at booth 15,0
+1,15:17,Student 25 arrives at booth 9,1
+1,15:17,Student 31 arrives at booth 13,1
+1,15:17,Student 45 arrives at booth 17,1
+1,15:17,Student 94 arrives at booth 19,1
+1,15:18,Student 91 arrives Art Fair,NA
+1,15:18,Student 72 departs at booth 4,0
+1,15:18,Student 10 departs at booth 19,1
+1,15:19,Student 10 departs Art Fair,NA
+1,15:19,Student 25 departs at booth 9,0
+1,15:20,Student 70 arrives Art Fair,NA
+1,15:20,Student 91 arrives at booth 4,1
+1,15:20,Student 98 departs at booth 17,1
+1,15:20,Student 67 departs at booth 18,0
+1,15:21,Student 87 departs at booth 5,0
+1,15:21,Student 31 departs at booth 13,0
+1,15:21,Student 31 arrives at booth 14,1
+1,15:21,Student 87 arrives at booth 6,1
+1,15:22,Student 67 departs Art Fair,NA
+1,15:22,Student 98 departs Art Fair,NA
+1,15:22,Student 94 departs at booth 19,0
+1,15:22,Student 94 arrives at booth 20,1
+1,15:23,Student 70 arrives at booth 6,1
+1,15:24,Student 25 arrives at booth 19,1
+1,15:24,Student 45 departs at booth 17,0
+1,15:25,Student 45 arrives at booth 19,1
+1,15:26,Student 72 arrives at booth 19,2
+1,15:26,Student 87 departs at booth 6,1
+1,15:27,Student 87 arrives at booth 8,1
+1,15:27,Student 91 departs at booth 4,0
+1,15:28,Student 71 arrives Art Fair,NA
+1,15:28,Student 91 arrives at booth 5,1
+1,15:28,Student 25 departs at booth 19,2
+1,15:29,Student 25 departs Art Fair,NA
+1,15:29,Student 100 arrives Art Fair,NA
+1,15:30,Student 71 arrives at booth 4,1
+1,15:30,Student 87 departs at booth 8,0
+1,15:31,Student 100 arrives at booth 3,1
+1,15:31,Student 70 departs at booth 6,0
+1,15:31,Student 31 departs at booth 14,0
+1,15:31,Student 94 departs at booth 20,0
+1,15:32,Student 70 arrives at booth 7,1
+1,15:32,Student 87 arrives at booth 11,1
+1,15:32,Student 94 departs Art Fair,NA
+1,15:32,Student 45 departs at booth 19,1
+1,15:33,Student 38 arrives Art Fair,NA
+1,15:33,Student 45 departs Art Fair,NA
+1,15:34,Student 38 arrives at booth 1,1
+1,15:34,Student 91 departs at booth 5,0
+1,15:34,Student 70 departs at booth 7,0
+1,15:34,Student 87 departs at booth 11,0
+1,15:35,Student 31 departs Art Fair,NA
+1,15:35,Student 91 arrives at booth 8,1
+1,15:36,Student 55 arrives Art Fair,NA
+1,15:36,Student 72 departs at booth 19,0
+1,15:37,Student 72 departs Art Fair,NA
+1,15:37,Student 38 departs at booth 1,0
+1,15:37,Student 71 departs at booth 4,0
+1,15:38,Student 91 departs at booth 8,0
+1,15:39,Student 38 arrives at booth 6,1
+1,15:39,Student 70 arrives at booth 18,1
+1,15:39,Student 87 departs Art Fair,NA
+1,15:39,Student 91 arrives at booth 10,1
+1,15:40,Student 71 arrives at booth 10,1
+1,15:40,Student 91 departs at booth 10,1
+1,15:41,Student 55 arrives at booth 9,1
+1,15:41,Student 100 departs at booth 3,0
+1,15:41,Student 71 departs at booth 10,0
+1,15:42,Student 100 arrives at booth 6,1
+1,15:43,Student 71 arrives at booth 14,1
+1,15:43,Student 91 arrives at booth 16,1
+1,15:43,Student 55 departs at booth 9,0
+1,15:44,Student 55 arrives at booth 11,1
+1,15:44,Student 38 departs at booth 6,1
+1,15:45,Student 38 arrives at booth 8,1
+1,15:45,Student 83 arrives Art Fair,NA
+1,15:45,Student 99 arrives Art Fair,NA
+1,15:45,Student 70 departs at booth 18,0
+1,15:46,Student 83 arrives at booth 1,1
+1,15:46,Student 55 departs at booth 11,0
+1,15:47,Student 55 arrives at booth 13,1
+1,15:47,Student 70 departs Art Fair,NA
+1,15:47,Student 99 arrives at booth 4,1
+1,15:48,Student 38 departs at booth 8,0
+1,15:48,Student 91 departs at booth 16,0
+1,15:49,Student 83 departs at booth 1,0
+1,15:49,Student 100 departs at booth 6,0
+1,15:50,Student 91 arrives at booth 19,1
+1,15:51,Student 55 departs at booth 13,0
+1,15:52,Student 42 arrives Art Fair,NA
+1,15:53,Student 38 arrives at booth 17,1
+1,15:53,Student 83 arrives at booth 10,1
+1,15:53,Student 100 arrives at booth 13,1
+1,15:53,Student 71 departs at booth 14,0
+1,15:54,Student 42 arrives at booth 4,1
+1,15:54,Student 71 arrives at booth 16,1
+1,15:54,Student 99 departs at booth 4,1
+1,15:54,Student 83 departs at booth 10,0
+1,15:54,Student 91 departs at booth 19,0
+1,15:55,Student 55 departs Art Fair,NA
+1,15:55,Student 83 arrives at booth 12,1
+1,15:55,Student 91 departs Art Fair,NA
+1,15:57,Student 99 arrives at booth 9,1
+1,15:57,Student 100 departs at booth 13,0
+1,15:57,Student 38 departs at booth 17,0
+1,15:58,Student 83 departs at booth 12,0
+1,15:59,Student 34 arrives Art Fair,NA
+1,15:59,Student 38 departs Art Fair,NA
+1,15:59,Student 99 departs at booth 9,0
+1,15:59,Student 71 departs at booth 16,0
+1,15:59,Student 99 arrives at booth 10,1
+1,16:00,Student 34 arrives at booth 2,1
+1,16:00,Student 100 arrives at booth 19,1
+1,16:00,Student 99 departs at booth 10,0
+1,16:01,Student 99 arrives at booth 12,1
+1,16:01,Student 42 departs at booth 4,0
+1,16:02,Student 17 arrives Art Fair,NA
+1,16:02,Student 71 departs Art Fair,NA
+1,16:03,Student 42 arrives at booth 8,1
+1,16:03,Student 83 departs Art Fair,NA
+1,16:04,Student 17 arrives at booth 3,1
+1,16:04,Student 52 arrives Art Fair,NA
+1,16:04,Student 99 departs at booth 12,0
+1,16:04,Student 100 departs at booth 19,0
+1,16:05,Student 99 arrives at booth 14,1
+1,16:05,Student 100 departs Art Fair,NA
+1,16:06,Student 42 departs at booth 8,0
+1,16:07,Student 8 arrives Art Fair,NA
+1,16:07,Student 32 arrives Art Fair,NA
+1,16:07,Student 42 arrives at booth 10,1
+1,16:07,Student 52 arrives at booth 5,1
+1,16:08,Student 8 arrives at booth 2,1
+1,16:08,Student 42 departs at booth 10,0
+1,16:09,Student 9 arrives Art Fair,NA
+1,16:09,Student 32 arrives at booth 4,1
+1,16:09,Student 42 arrives at booth 11,1
+1,16:10,Student 14 arrives Art Fair,NA
+1,16:10,Student 80 arrives Art Fair,NA
+1,16:10,Student 34 departs at booth 2,1
+1,16:11,Student 9 arrives at booth 3,1
+1,16:11,Student 14 arrives at booth 2,1
+1,16:11,Student 65 arrives Art Fair,NA
+1,16:11,Student 42 departs at booth 11,0
+1,16:12,Student 80 arrives at booth 4,1
+1,16:13,Student 65 arrives at booth 4,2
+1,16:13,Student 52 departs at booth 5,0
+1,16:14,Student 34 arrives at booth 9,1
+1,16:14,Student 52 arrives at booth 8,1
+1,16:14,Student 66 arrives Art Fair,NA
+1,16:14,Student 17 departs at booth 3,1
+1,16:15,Student 42 arrives at booth 19,1
+1,16:15,Student 99 departs at booth 14,0
+1,16:16,Student 32 departs at booth 4,2
+1,16:16,Student 34 departs at booth 9,0
+1,16:17,Student 29 arrives Art Fair,NA
+1,16:17,Student 34 arrives at booth 12,1
+1,16:17,Student 99 arrives at booth 18,1
+1,16:17,Student 52 departs at booth 8,0
+1,16:18,Student 17 arrives at booth 12,1
+1,16:18,Student 28 arrives Art Fair,NA
+1,16:19,Student 29 arrives at booth 3,1
+1,16:19,Student 32 arrives at booth 10,1
+1,16:19,Student 52 arrives at booth 11,1
+1,16:19,Student 66 arrives at booth 9,1
+1,16:19,Student 42 departs at booth 19,0
+1,16:20,Student 42 departs Art Fair,NA
+1,16:20,Student 8 departs at booth 2,1
+1,16:20,Student 32 departs at booth 10,0
+1,16:20,Student 34 departs at booth 12,1
+1,16:21,Student 34 arrives at booth 13,1
+1,16:21,Student 66 departs at booth 9,0
+1,16:21,Student 52 departs at booth 11,0
+1,16:22,Student 32 arrives at booth 13,1
+1,16:22,Student 52 arrives at booth 13,2
+1,16:22,Student 66 arrives at booth 12,1
+1,16:23,Student 80 departs at booth 4,1
+1,16:23,Student 17 departs at booth 12,1
+1,16:23,Student 99 departs at booth 18,0
+1,16:24,Student 28 arrives at booth 12,1
+1,16:24,Student 9 departs at booth 3,1
+1,16:25,Student 4 arrives Art Fair,NA
+1,16:25,Student 9 arrives at booth 5,1
+1,16:25,Student 17 arrives at booth 15,1
+1,16:25,Student 23 arrives Art Fair,NA
+1,16:25,Student 99 departs Art Fair,NA
+1,16:25,Student 34 departs at booth 13,2
+1,16:26,Student 4 arrives at booth 1,1
+1,16:26,Student 23 arrives at booth 1,2
+1,16:26,Student 80 arrives at booth 9,1
+1,16:26,Student 66 departs at booth 12,1
+1,16:27,Student 8 arrives at booth 15,1
+1,16:27,Student 34 arrives at booth 18,1
+1,16:27,Student 53 arrives Art Fair,NA
+1,16:27,Student 66 arrives at booth 14,1
+1,16:28,Student 80 departs at booth 9,0
+1,16:29,Student 80 arrives at booth 11,1
+1,16:29,Student 4 departs at booth 1,1
+1,16:29,Student 28 departs at booth 12,0
+1,16:29,Student 32 departs at booth 13,1
+1,16:29,Student 17 departs at booth 15,1
+1,16:29,Student 17 arrives at booth 16,1
+1,16:30,Student 4 arrives at booth 3,1
+1,16:30,Student 18 arrives Art Fair,NA
+1,16:30,Student 28 arrives at booth 13,1
+1,16:30,Student 53 arrives at booth 6,1
+1,16:30,Student 74 arrives Art Fair,NA
+1,16:30,Student 14 departs at booth 2,0
+1,16:30,Student 65 departs at booth 4,0
+1,16:31,Student 15 arrives Art Fair,NA
+1,16:31,Student 18 arrives at booth 2,1
+1,16:31,Student 32 arrives at booth 17,1
+1,16:31,Student 9 departs at booth 5,0
+1,16:31,Student 80 departs at booth 11,0
+1,16:32,Student 15 arrives at booth 1,1
+1,16:32,Student 74 arrives at booth 3,2
+1,16:32,Student 80 arrives at booth 14,1
+1,16:32,Student 23 departs at booth 1,1
+1,16:33,Student 14 arrives at booth 7,1
+1,16:33,Student 52 departs at booth 13,1
+1,16:33,Student 8 departs at booth 15,0
+1,16:33,Student 34 departs at booth 18,0
+1,16:34,Student 9 arrives at booth 11,1
+1,16:34,Student 65 arrives at booth 12,1
+1,16:34,Student 29 departs at booth 3,2
+1,16:34,Student 17 departs at booth 16,0
+1,16:35,Student 8 arrives at booth 20,1
+1,16:35,Student 33 arrives Art Fair,NA
+1,16:35,Student 34 departs Art Fair,NA
+1,16:35,Student 52 arrives at booth 18,1
+1,16:35,Student 15 departs at booth 1,0
+1,16:35,Student 53 departs at booth 6,0
+1,16:35,Student 14 departs at booth 7,0
+1,16:35,Student 32 departs at booth 17,0
+1,16:35,Student 14 arrives at booth 8,1
+1,16:35,Student 15 arrives at booth 2,1
+1,16:36,Student 17 arrives at booth 20,1
+1,16:36,Student 33 arrives at booth 2,2
+1,16:36,Student 9 departs at booth 11,0
+1,16:37,Student 32 departs Art Fair,NA
+1,16:37,Student 65 departs at booth 12,0
+1,16:37,Student 28 departs at booth 13,0
+1,16:37,Student 66 departs at booth 14,1
+1,16:38,Student 9 arrives at booth 15,1
+1,16:38,Student 28 arrives at booth 16,1
+1,16:38,Student 65 arrives at booth 14,1
+1,16:38,Student 14 departs at booth 8,0
+1,16:39,Student 23 arrives at booth 15,1
+1,16:39,Student 53 arrives at booth 14,2
+1,16:41,Student 29 arrives at booth 17,1
+1,16:41,Student 66 departs Art Fair,NA
+1,16:41,Student 18 departs at booth 2,2
+1,16:41,Student 52 departs at booth 18,0
+1,16:42,Student 14 arrives at booth 15,2
+1,16:42,Student 18 arrives at booth 3,2
+1,16:42,Student 52 arrives at booth 19,1
+1,16:42,Student 81 arrives Art Fair,NA
+1,16:42,Student 9 departs at booth 15,2
+1,16:43,Student 81 arrives at booth 2,2
+1,16:43,Student 92 arrives Art Fair,NA
+1,16:43,Student 28 departs at booth 16,0
+1,16:44,Student 4 departs at booth 3,2
+1,16:44,Student 8 departs at booth 20,1
+1,16:45,Student 8 departs Art Fair,NA
+1,16:45,Student 9 departs Art Fair,NA
+1,16:45,Student 29 departs at booth 17,0
+1,16:46,Student 4 arrives at booth 7,1
+1,16:46,Student 28 departs Art Fair,NA
+1,16:46,Student 29 arrives at booth 19,1
+1,16:46,Student 92 arrives at booth 6,1
+1,16:46,Student 23 departs at booth 15,1
+1,16:46,Student 52 departs at booth 19,1
+1,16:47,Student 52 departs Art Fair,NA
+1,16:47,Student 80 departs at booth 14,2
+1,16:48,Student 23 arrives at booth 19,1
+1,16:48,Student 4 departs at booth 7,0
+1,16:50,Student 44 arrives Art Fair,NA
+1,16:50,Student 14 departs at booth 15,0
+1,16:50,Student 29 departs at booth 19,1
+1,16:51,Student 4 arrives at booth 14,2
+1,16:51,Student 29 departs Art Fair,NA
+1,16:51,Student 80 departs Art Fair,NA
+1,16:51,Student 15 departs at booth 2,2
+1,16:51,Student 92 departs at booth 6,0
+1,16:52,Student 14 arrives at booth 19,1
+1,16:52,Student 92 arrives at booth 7,1
+1,16:53,Student 17 departs at booth 20,0
+1,16:54,Student 15 arrives at booth 7,1
+1,16:54,Student 17 departs Art Fair,NA
+1,16:54,Student 74 departs at booth 3,1
+1,16:54,Student 92 departs at booth 7,1
+1,16:54,Student 23 departs at booth 19,1
+1,16:54,Student 74 arrives at booth 4,1
+1,16:55,Student 23 departs Art Fair,NA
+1,16:55,Student 44 arrives at booth 9,1
+1,16:55,Student 92 arrives at booth 9,2
+1,16:56,Student 15 departs at booth 7,0
+1,16:57,Student 15 arrives at booth 9,2
+1,16:57,Student 44 departs at booth 9,2
+1,16:57,Student 65 departs at booth 14,2
+1,16:57,Student 44 arrives at booth 10,1
+1,16:58,Student 44 departs at booth 10,0
+1,16:58,Student 14 departs at booth 19,0
+1,16:59,Student 14 departs Art Fair,NA
+1,16:59,Student 65 arrives at booth 17,1
+1,16:59,Student 92 departs at booth 9,1
+1,17:01,Student 92 arrives at booth 13,1
+1,17:01,Student 33 departs at booth 2,1
+1,17:01,Student 74 departs at booth 4,0
+1,17:01,Student 15 departs at booth 9,0
+1,17:01,Student 15 arrives at booth 10,1
+1,17:02,Student 33 arrives at booth 3,1
+1,17:02,Student 44 arrives at booth 17,1
+1,17:02,Student 74 arrives at booth 6,1
+1,17:02,Student 15 departs at booth 10,0
+1,17:03,Student 65 departs at booth 17,1
+1,17:04,Student 18 departs at booth 3,1
+1,17:05,Student 18 arrives at booth 5,1
+1,17:05,Student 65 departs Art Fair,NA
+1,17:05,Student 92 departs at booth 13,0
+1,17:05,Student 92 arrives at booth 14,2
+1,17:06,Student 15 arrives at booth 18,1
+1,17:06,Student 56 arrives Art Fair,NA
+1,17:07,Student 56 arrives at booth 2,1
+1,17:07,Student 74 departs at booth 6,0
+1,17:07,Student 53 departs at booth 14,2
+1,17:07,Student 44 departs at booth 17,0
+1,17:08,Student 53 arrives at booth 16,1
+1,17:09,Student 44 departs Art Fair,NA
+1,17:10,Student 74 arrives at booth 11,1
+1,17:11,Student 81 departs at booth 2,1
+1,17:11,Student 18 departs at booth 5,0
+1,17:12,Student 81 arrives at booth 4,1
+1,17:12,Student 74 departs at booth 11,0
+1,17:12,Student 15 departs at booth 18,0
+1,17:12,Student 74 arrives at booth 12,1
+1,17:13,Student 18 arrives at booth 10,1
+1,17:13,Student 53 departs at booth 16,0
+1,17:14,Student 15 departs Art Fair,NA
+1,17:14,Student 33 departs at booth 3,0
+1,17:14,Student 18 departs at booth 10,0
+1,17:15,Student 18 arrives at booth 11,1
+1,17:15,Student 74 departs at booth 12,0
+1,17:16,Student 53 departs Art Fair,NA
+1,17:17,Student 33 arrives at booth 9,1
+1,17:17,Student 18 departs at booth 11,0
+1,17:17,Student 4 departs at booth 14,1
+1,17:19,Student 4 arrives at booth 17,1
+1,17:19,Student 18 arrives at booth 16,1
+1,17:19,Student 74 arrives at booth 20,1
+1,17:19,Student 81 departs at booth 4,0
+1,17:19,Student 33 departs at booth 9,0
+1,17:19,Student 33 arrives at booth 10,1
+1,17:20,Student 33 departs at booth 10,0
+1,17:21,Student 56 departs at booth 2,0
+1,17:22,Student 81 arrives at booth 10,1
+1,17:23,Student 81 departs at booth 10,0
+1,17:23,Student 4 departs at booth 17,0
+1,17:24,Student 4 arrives at booth 20,1
+1,17:24,Student 56 arrives at booth 7,1
+1,17:24,Student 18 departs at booth 16,0
+1,17:25,Student 33 arrives at booth 19,1
+1,17:25,Student 81 arrives at booth 14,1
+1,17:26,Student 56 departs at booth 7,0
+1,17:27,Student 18 departs Art Fair,NA
+1,17:27,Student 92 departs at booth 14,1
+1,17:28,Student 56 arrives at booth 11,1
+1,17:28,Student 74 departs at booth 20,1
+1,17:29,Student 20 arrives Art Fair,NA
+1,17:29,Student 74 departs Art Fair,NA
+1,17:29,Student 33 departs at booth 19,0
+1,17:30,Student 33 departs Art Fair,NA
+1,17:30,Student 56 departs at booth 11,0
+1,17:31,Student 20 arrives at booth 3,1
+1,17:31,Student 56 arrives at booth 14,1
+1,17:31,Student 92 departs Art Fair,NA
+1,17:35,Student 46 arrives Art Fair,NA
+1,17:37,Student 46 arrives at booth 4,1
+1,17:37,Student 81 departs at booth 14,1
+1,17:37,Student 4 departs at booth 20,0
+1,17:38,Student 4 departs Art Fair,NA
+1,17:40,Student 81 arrives at booth 19,1
+1,17:41,Student 20 departs at booth 3,0
+1,17:42,Student 20 arrives at booth 6,1
+1,17:44,Student 46 departs at booth 4,0
+1,17:44,Student 81 departs at booth 19,0
+1,17:45,Student 46 arrives at booth 6,1
+1,17:45,Student 81 departs Art Fair,NA
+1,17:47,Student 20 departs at booth 6,1
+1,17:47,Student 56 departs at booth 14,0
+1,17:48,Student 56 arrives at booth 15,1
+1,17:52,Student 46 departs at booth 6,0
+1,17:52,Student 56 departs at booth 15,0
+1,17:53,Student 46 arrives at booth 8,1
+1,17:54,Student 20 arrives at booth 20,1
+1,17:54,Student 56 arrives at booth 20,2
+1,17:56,Student 46 departs at booth 8,0
+1,18:00,Student 46 arrives at booth 15,1
+1,18:03,Student 20 departs at booth 20,1
+1,18:04,Student 20 departs Art Fair,NA
+1,18:04,Student 46 departs at booth 15,0
+1,18:07,Student 46 departs Art Fair,NA
+1,18:12,Student 56 departs at booth 20,0
+1,18:13,Student 56 departs Art Fair,NA
+2,11:12,Student 92 arrives Art Fair,NA
+2,11:14,Student 92 arrives at booth 3,1
+2,11:17,Student 90 arrives Art Fair,NA
+2,11:18,Student 90 arrives at booth 1,1
+2,11:21,Student 90 departs at booth 1,0
+2,11:22,Student 33 arrives Art Fair,NA
+2,11:22,Student 72 arrives Art Fair,NA
+2,11:23,Student 33 arrives at booth 2,1
+2,11:23,Student 72 arrives at booth 2,2
+2,11:23,Student 90 arrives at booth 6,1
+2,11:24,Student 92 departs at booth 3,0
+2,11:25,Student 92 arrives at booth 5,1
+2,11:26,Student 62 arrives Art Fair,NA
+2,11:28,Student 90 departs at booth 6,0
+2,11:29,Student 64 arrives Art Fair,NA
+2,11:29,Student 90 arrives at booth 7,1
+2,11:31,Student 64 arrives at booth 3,1
+2,11:31,Student 92 departs at booth 5,0
+2,11:31,Student 90 departs at booth 7,0
+2,11:32,Student 90 arrives at booth 10,1
+2,11:32,Student 92 arrives at booth 7,1
+2,11:33,Student 62 arrives at booth 14,1
+2,11:33,Student 33 departs at booth 2,1
+2,11:33,Student 90 departs at booth 10,0
+2,11:34,Student 60 arrives Art Fair,NA
+2,11:34,Student 90 arrives at booth 11,1
+2,11:34,Student 92 departs at booth 7,0
+2,11:35,Student 60 arrives at booth 2,1
+2,11:35,Student 92 arrives at booth 9,1
+2,11:36,Student 33 arrives at booth 8,1
+2,11:36,Student 90 departs at booth 11,0
+2,11:37,Student 85 arrives Art Fair,NA
+2,11:37,Student 90 arrives at booth 14,1
+2,11:37,Student 92 departs at booth 9,0
+2,11:38,Student 92 arrives at booth 12,1
+2,11:39,Student 6 arrives Art Fair,NA
+2,11:39,Student 34 arrives Art Fair,NA
+2,11:39,Student 33 departs at booth 8,0
+2,11:40,Student 85 arrives at booth 6,1
+2,11:41,Student 34 arrives at booth 3,1
+2,11:41,Student 64 departs at booth 3,1
+2,11:41,Student 92 departs at booth 12,0
+2,11:43,Student 6 arrives at booth 8,1
+2,11:43,Student 33 arrives at booth 16,1
+2,11:43,Student 64 arrives at booth 7,1
+2,11:43,Student 72 departs at booth 2,1
+2,11:43,Student 62 departs at booth 14,1
+2,11:44,Student 43 arrives Art Fair,NA
+2,11:45,Student 43 arrives at booth 2,1
+2,11:45,Student 62 arrives at booth 17,1
+2,11:45,Student 85 departs at booth 6,0
+2,11:45,Student 64 departs at booth 7,0
+2,11:45,Student 64 arrives at booth 8,1
+2,11:46,Student 92 departs Art Fair,NA
+2,11:46,Student 6 departs at booth 8,1
+2,11:47,Student 6 arrives at booth 10,1
+2,11:47,Student 85 arrives at booth 10,2
+2,11:48,Student 72 arrives at booth 11,1
+2,11:48,Student 6 departs at booth 10,1
+2,11:48,Student 33 departs at booth 16,0
+2,11:49,Student 64 departs at booth 8,0
+2,11:49,Student 85 departs at booth 10,0
+2,11:49,Student 62 departs at booth 17,0
+2,11:50,Student 33 arrives at booth 20,1
+2,11:50,Student 62 arrives at booth 20,2
+2,11:50,Student 72 departs at booth 11,0
+2,11:50,Student 72 arrives at booth 12,1
+2,11:51,Student 34 departs at booth 3,0
+2,11:52,Student 6 arrives at booth 17,1
+2,11:52,Student 34 arrives at booth 5,1
+2,11:53,Student 29 arrives Art Fair,NA
+2,11:53,Student 39 arrives Art Fair,NA
+2,11:53,Student 85 arrives at booth 17,1
+2,11:53,Student 60 departs at booth 2,1
+2,11:53,Student 72 departs at booth 12,0
+2,11:53,Student 90 departs at booth 14,0
+2,11:54,Student 39 arrives at booth 1,1
+2,11:54,Student 72 arrives at booth 14,1
+2,11:55,Student 64 arrives at booth 19,1
+2,11:56,Student 60 arrives at booth 7,1
+2,11:56,Student 6 departs at booth 17,1
+2,11:57,Student 6 arrives at booth 20,2
+2,11:57,Student 29 arrives at booth 8,1
+2,11:57,Student 90 departs Art Fair,NA
+2,11:57,Student 39 departs at booth 1,0
+2,11:58,Student 34 departs at booth 5,0
+2,11:58,Student 60 departs at booth 7,0
+2,11:58,Student 34 arrives at booth 6,1
+2,11:59,Student 39 arrives at booth 6,1
+2,11:59,Student 55 arrives Art Fair,NA
+2,11:59,Student 64 departs at booth 19,0
+2,11:59,Student 33 departs at booth 20,2
+2,12:00,Student 33 departs Art Fair,NA
+2,12:00,Student 60 arrives at booth 12,1
+2,12:00,Student 64 departs Art Fair,NA
+2,12:00,Student 29 departs at booth 8,0
+2,12:00,Student 85 departs at booth 17,0
+2,12:01,Student 55 arrives at booth 4,1
+2,12:01,Student 85 arrives at booth 20,2
+2,12:03,Student 43 departs at booth 2,0
+2,12:03,Student 34 departs at booth 6,1
+2,12:03,Student 60 departs at booth 12,0
+2,12:04,Student 43 arrives at booth 3,1
+2,12:04,Student 82 arrives Art Fair,NA
+2,12:04,Student 72 departs at booth 14,0
+2,12:05,Student 29 arrives at booth 17,1
+2,12:06,Student 34 arrives at booth 11,1
+2,12:06,Student 60 arrives at booth 17,1
+2,12:06,Student 72 arrives at booth 17,2
+2,12:06,Student 82 arrives at booth 3,1
+2,12:08,Student 55 departs at booth 4,0
+2,12:08,Student 39 departs at booth 6,0
+2,12:08,Student 34 departs at booth 11,0
+2,12:08,Student 62 departs at booth 20,2
+2,12:09,Student 34 arrives at booth 13,1
+2,12:09,Student 62 departs Art Fair,NA
+2,12:09,Student 29 departs at booth 17,2
+2,12:10,Student 29 arrives at booth 19,1
+2,12:10,Student 39 arrives at booth 10,1
+2,12:11,Student 55 arrives at booth 10,1
+2,12:11,Student 39 departs at booth 10,1
+2,12:12,Student 39 arrives at booth 11,1
+2,12:12,Student 55 departs at booth 10,0
+2,12:13,Student 34 departs at booth 13,0
+2,12:13,Student 60 departs at booth 17,1
+2,12:13,Student 60 arrives at booth 18,1
+2,12:14,Student 34 arrives at booth 15,1
+2,12:14,Student 55 arrives at booth 14,1
+2,12:14,Student 43 departs at booth 3,1
+2,12:14,Student 39 departs at booth 11,0
+2,12:14,Student 29 departs at booth 19,0
+2,12:14,Student 29 arrives at booth 20,2
+2,12:16,Student 39 arrives at booth 15,1
+2,12:16,Student 89 arrives Art Fair,NA
+2,12:17,Student 89 arrives at booth 2,1
+2,12:17,Student 72 departs at booth 17,0
+2,12:17,Student 6 departs at booth 20,2
+2,12:17,Student 72 arrives at booth 18,1
+2,12:18,Student 6 departs Art Fair,NA
+2,12:18,Student 34 departs at booth 15,1
+2,12:19,Student 24 arrives Art Fair,NA
+2,12:19,Student 43 arrives at booth 14,1
+2,12:19,Student 70 arrives Art Fair,NA
+2,12:19,Student 60 departs at booth 18,1
+2,12:20,Student 60 arrives at booth 19,1
+2,12:21,Student 24 arrives at booth 4,1
+2,12:21,Student 34 departs Art Fair,NA
+2,12:21,Student 70 arrives at booth 4,2
+2,12:22,Student 39 departs at booth 15,0
+2,12:23,Student 39 arrives at booth 17,1
+2,12:24,Student 82 departs at booth 3,0
+2,12:24,Student 55 departs at booth 14,1
+2,12:24,Student 60 departs at booth 19,0
+2,12:25,Student 55 arrives at booth 15,1
+2,12:25,Student 60 departs Art Fair,NA
+2,12:25,Student 72 departs at booth 18,0
+2,12:26,Student 52 arrives Art Fair,NA
+2,12:26,Student 99 arrives Art Fair,NA
+2,12:26,Student 85 departs at booth 20,1
+2,12:27,Student 72 departs Art Fair,NA
+2,12:27,Student 85 departs Art Fair,NA
+2,12:27,Student 99 arrives at booth 2,1
+2,12:27,Student 89 departs at booth 2,1
+2,12:27,Student 39 departs at booth 17,0
+2,12:28,Student 71 arrives Art Fair,NA
+2,12:28,Student 89 arrives at booth 3,1
+2,12:28,Student 24 departs at booth 4,1
+2,12:29,Student 24 arrives at booth 6,1
+2,12:29,Student 39 departs Art Fair,NA
+2,12:29,Student 82 arrives at booth 13,1
+2,12:29,Student 55 departs at booth 15,0
+2,12:30,Student 52 arrives at booth 7,1
+2,12:31,Student 48 arrives Art Fair,NA
+2,12:31,Student 71 arrives at booth 5,1
+2,12:32,Student 46 arrives Art Fair,NA
+2,12:32,Student 55 departs Art Fair,NA
+2,12:32,Student 52 departs at booth 7,0
+2,12:33,Student 82 departs at booth 13,0
+2,12:34,Student 46 arrives at booth 4,1
+2,12:34,Student 52 arrives at booth 11,1
+2,12:34,Student 24 departs at booth 6,0
+2,12:34,Student 43 departs at booth 14,0
+2,12:35,Student 24 arrives at booth 8,1
+2,12:35,Student 48 arrives at booth 8,2
+2,12:35,Student 70 departs at booth 4,1
+2,12:35,Student 29 departs at booth 20,0
+2,12:36,Student 29 departs Art Fair,NA
+2,12:36,Student 82 arrives at booth 19,1
+2,12:36,Student 52 departs at booth 11,0
+2,12:37,Student 52 arrives at booth 14,1
+2,12:37,Student 70 arrives at booth 8,2
+2,12:37,Student 99 departs at booth 2,0
+2,12:37,Student 71 departs at booth 5,0
+2,12:37,Student 71 arrives at booth 6,1
+2,12:38,Student 43 departs Art Fair,NA
+2,12:38,Student 96 arrives Art Fair,NA
+2,12:38,Student 89 departs at booth 3,0
+2,12:38,Student 24 departs at booth 8,2
+2,12:39,Student 99 arrives at booth 6,1
+2,12:40,Student 24 arrives at booth 12,1
+2,12:40,Student 89 arrives at booth 7,1
+2,12:40,Student 96 arrives at booth 3,1
+2,12:40,Student 82 departs at booth 19,0
+2,12:41,Student 82 departs Art Fair,NA
+2,12:41,Student 48 departs at booth 8,1
+2,12:42,Student 46 departs at booth 4,0
+2,12:42,Student 71 departs at booth 6,1
+2,12:42,Student 89 departs at booth 7,0
+2,12:43,Student 46 arrives at booth 6,1
+2,12:43,Student 93 arrives Art Fair,NA
+2,12:43,Student 24 departs at booth 12,0
+2,12:44,Student 48 arrives at booth 14,1
+2,12:44,Student 67 arrives Art Fair,NA
+2,12:44,Student 93 arrives at booth 1,1
+2,12:44,Student 70 departs at booth 8,0
+2,12:45,Student 24 arrives at booth 15,1
+2,12:45,Student 67 arrives at booth 1,1
+2,12:45,Student 89 arrives at booth 13,1
+2,12:46,Student 70 arrives at booth 12,1
+2,12:46,Student 71 arrives at booth 13,1
+2,12:47,Student 93 departs at booth 1,1
+2,12:47,Student 99 departs at booth 6,1
+2,12:47,Student 52 departs at booth 14,1
+2,12:48,Student 93 arrives at booth 4,1
+2,12:48,Student 99 arrives at booth 7,1
+2,12:49,Student 70 departs at booth 12,0
+2,12:49,Student 89 departs at booth 13,1
+2,12:49,Student 24 departs at booth 15,0
+2,12:50,Student 52 arrives at booth 19,1
+2,12:50,Student 89 arrives at booth 16,1
+2,12:50,Student 67 departs at booth 1,0
+2,12:50,Student 96 departs at booth 3,0
+2,12:50,Student 99 departs at booth 7,0
+2,12:50,Student 96 arrives at booth 4,1
+2,12:51,Student 67 arrives at booth 4,2
+2,12:51,Student 70 arrives at booth 16,1
+2,12:51,Student 99 arrives at booth 10,1
+2,12:52,Student 24 departs Art Fair,NA
+2,12:52,Student 46 departs at booth 6,0
+2,12:52,Student 99 departs at booth 10,0
+2,12:53,Student 99 arrives at booth 11,1
+2,12:53,Student 71 departs at booth 13,0
+2,12:54,Student 46 arrives at booth 10,1
+2,12:54,Student 52 departs at booth 19,0
+2,12:55,Student 52 departs Art Fair,NA
+2,12:55,Student 93 departs at booth 4,2
+2,12:55,Student 46 departs at booth 10,0
+2,12:55,Student 99 departs at booth 11,0
+2,12:55,Student 89 departs at booth 16,1
+2,12:56,Student 46 arrives at booth 11,1
+2,12:56,Student 71 arrives at booth 19,1
+2,12:56,Student 89 arrives at booth 17,1
+2,12:57,Student 93 arrives at booth 7,1
+2,12:57,Student 48 departs at booth 14,0
+2,12:58,Student 48 arrives at booth 15,1
+2,12:58,Student 46 departs at booth 11,0
+2,12:59,Student 93 departs at booth 7,0
+2,13:00,Student 46 arrives at booth 15,1
+2,13:00,Student 99 departs Art Fair,NA
+2,13:00,Student 70 departs at booth 16,0
+2,13:00,Student 89 departs at booth 17,0
+2,13:00,Student 71 departs at booth 19,0
+2,13:01,Student 71 departs Art Fair,NA
+2,13:02,Student 89 departs Art Fair,NA
+2,13:02,Student 96 departs at booth 4,1
+2,13:02,Student 48 departs at booth 15,1
+2,13:03,Student 48 arrives at booth 17,1
+2,13:03,Student 70 departs Art Fair,NA
+2,13:04,Student 93 arrives at booth 18,1
+2,13:04,Student 96 arrives at booth 8,1
+2,13:06,Student 46 departs at booth 15,0
+2,13:06,Student 46 arrives at booth 16,1
+2,13:07,Student 96 departs at booth 8,0
+2,13:07,Student 48 departs at booth 17,0
+2,13:08,Student 27 arrives Art Fair,NA
+2,13:08,Student 48 arrives at booth 20,1
+2,13:09,Student 96 arrives at booth 12,1
+2,13:09,Student 67 departs at booth 4,0
+2,13:10,Student 67 arrives at booth 5,1
+2,13:10,Student 93 departs at booth 18,0
+2,13:11,Student 93 arrives at booth 20,1
+2,13:11,Student 46 departs at booth 16,0
+2,13:12,Student 27 arrives at booth 8,1
+2,13:12,Student 96 departs at booth 12,0
+2,13:13,Student 30 arrives Art Fair,NA
+2,13:14,Student 46 departs Art Fair,NA
+2,13:15,Student 30 arrives at booth 3,1
+2,13:15,Student 96 arrives at booth 18,1
+2,13:15,Student 27 departs at booth 8,0
+2,13:16,Student 27 arrives at booth 10,1
+2,13:16,Student 67 departs at booth 5,0
+2,13:17,Student 67 arrives at booth 8,1
+2,13:17,Student 27 departs at booth 10,0
+2,13:17,Student 48 departs at booth 20,1
+2,13:18,Student 48 departs Art Fair,NA
+2,13:20,Student 27 arrives at booth 16,1
+2,13:20,Student 67 departs at booth 8,0
+2,13:21,Student 96 departs at booth 18,0
+2,13:23,Student 79 arrives Art Fair,NA
+2,13:23,Student 94 arrives Art Fair,NA
+2,13:23,Student 96 departs Art Fair,NA
+2,13:24,Student 79 arrives at booth 1,1
+2,13:24,Student 94 arrives at booth 1,2
+2,13:25,Student 67 arrives at booth 17,1
+2,13:25,Student 30 departs at booth 3,0
+2,13:25,Student 27 departs at booth 16,0
+2,13:26,Student 30 arrives at booth 6,1
+2,13:26,Student 93 departs at booth 20,0
+2,13:27,Student 37 arrives Art Fair,NA
+2,13:27,Student 93 departs Art Fair,NA
+2,13:27,Student 79 departs at booth 1,1
+2,13:27,Student 79 arrives at booth 2,1
+2,13:28,Student 27 departs Art Fair,NA
+2,13:28,Student 37 arrives at booth 1,1
+2,13:29,Student 67 departs at booth 17,0
+2,13:30,Student 67 arrives at booth 20,1
+2,13:30,Student 94 departs at booth 1,1
+2,13:31,Student 30 departs at booth 6,0
+2,13:32,Student 94 arrives at booth 6,1
+2,13:33,Student 37 departs at booth 1,0
+2,13:35,Student 30 arrives at booth 14,1
+2,13:35,Student 37 arrives at booth 6,1
+2,13:37,Student 79 departs at booth 2,0
+2,13:37,Student 94 departs at booth 6,1
+2,13:38,Student 94 arrives at booth 8,1
+2,13:39,Student 1 arrives Art Fair,NA
+2,13:39,Student 67 departs at booth 20,0
+2,13:40,Student 1 arrives at booth 2,1
+2,13:40,Student 67 departs Art Fair,NA
+2,13:40,Student 98 arrives Art Fair,NA
+2,13:41,Student 98 arrives at booth 2,1
+2,13:41,Student 94 departs at booth 8,0
+2,13:42,Student 37 departs at booth 6,0
+2,13:45,Student 56 arrives Art Fair,NA
+2,13:45,Student 79 arrives at booth 17,1
+2,13:45,Student 30 departs at booth 14,0
+2,13:46,Student 30 arrives at booth 16,1
+2,13:46,Student 57 arrives Art Fair,NA
+2,13:46,Student 94 arrives at booth 18,1
+2,13:47,Student 56 arrives at booth 3,1
+2,13:47,Student 84 arrives Art Fair,NA
+2,13:48,Student 51 arrives Art Fair,NA
+2,13:49,Student 37 arrives at booth 19,1
+2,13:49,Student 57 arrives at booth 6,1
+2,13:49,Student 79 departs at booth 17,0
+2,13:50,Student 84 arrives at booth 6,1
+2,13:50,Student 1 departs at booth 2,1
+2,13:51,Student 1 arrives at booth 4,1
+2,13:51,Student 51 arrives at booth 6,2
+2,13:51,Student 79 departs Art Fair,NA
+2,13:51,Student 30 departs at booth 16,0
+2,13:52,Student 30 arrives at booth 17,1
+2,13:52,Student 94 departs at booth 18,0
+2,13:53,Student 86 arrives Art Fair,NA
+2,13:53,Student 37 departs at booth 19,0
+2,13:54,Student 37 departs Art Fair,NA
+2,13:54,Student 94 departs Art Fair,NA
+2,13:54,Student 57 departs at booth 6,2
+2,13:55,Student 42 arrives Art Fair,NA
+2,13:55,Student 57 arrives at booth 7,1
+2,13:55,Student 86 arrives at booth 4,1
+2,13:56,Student 30 departs at booth 17,0
+2,13:57,Student 56 departs at booth 3,0
+2,13:57,Student 57 departs at booth 7,0
+2,13:58,Student 30 departs Art Fair,NA
+2,13:58,Student 42 arrives at booth 6,2
+2,13:58,Student 56 arrives at booth 5,1
+2,13:58,Student 1 departs at booth 4,1
+2,13:59,Student 57 arrives at booth 11,1
+2,13:59,Student 84 departs at booth 6,2
+2,14:00,Student 98 departs at booth 2,0
+2,14:01,Student 98 arrives at booth 4,1
+2,14:01,Student 57 departs at booth 11,0
+2,14:02,Student 1 arrives at booth 12,1
+2,14:03,Student 84 arrives at booth 14,1
+2,14:04,Student 57 arrives at booth 17,1
+2,14:04,Student 56 departs at booth 5,0
+2,14:04,Student 51 departs at booth 6,1
+2,14:05,Student 51 arrives at booth 7,1
+2,14:05,Student 56 arrives at booth 7,2
+2,14:05,Student 73 arrives Art Fair,NA
+2,14:05,Student 86 departs at booth 4,1
+2,14:05,Student 1 departs at booth 12,0
+2,14:06,Student 86 arrives at booth 5,1
+2,14:07,Student 1 arrives at booth 15,1
+2,14:07,Student 16 arrives Art Fair,NA
+2,14:07,Student 73 arrives at booth 4,1
+2,14:07,Student 51 departs at booth 7,1
+2,14:08,Student 57 departs at booth 17,0
+2,14:09,Student 16 arrives at booth 4,2
+2,14:09,Student 42 departs at booth 6,0
+2,14:09,Student 56 departs at booth 7,0
+2,14:10,Student 17 arrives Art Fair,NA
+2,14:10,Student 42 arrives at booth 8,1
+2,14:10,Student 56 arrives at booth 10,1
+2,14:10,Student 57 departs Art Fair,NA
+2,14:11,Student 51 arrives at booth 15,1
+2,14:11,Student 56 departs at booth 10,0
+2,14:11,Student 1 departs at booth 15,1
+2,14:12,Student 1 arrives at booth 17,1
+2,14:12,Student 98 departs at booth 4,2
+2,14:12,Student 86 departs at booth 5,0
+2,14:13,Student 17 arrives at booth 6,1
+2,14:13,Student 42 departs at booth 8,0
+2,14:13,Student 84 departs at booth 14,0
+2,14:14,Student 84 arrives at booth 15,1
+2,14:14,Student 86 arrives at booth 10,1
+2,14:14,Student 98 arrives at booth 7,1
+2,14:15,Student 42 arrives at booth 11,1
+2,14:15,Student 86 departs at booth 10,0
+2,14:15,Student 51 departs at booth 15,1
+2,14:16,Student 56 arrives at booth 20,1
+2,14:16,Student 98 departs at booth 7,0
+2,14:16,Student 1 departs at booth 17,0
+2,14:17,Student 51 arrives at booth 19,1
+2,14:17,Student 42 departs at booth 11,0
+2,14:18,Student 1 departs Art Fair,NA
+2,14:18,Student 66 arrives Art Fair,NA
+2,14:18,Student 86 arrives at booth 15,1
+2,14:18,Student 98 arrives at booth 11,1
+2,14:18,Student 17 departs at booth 6,0
+2,14:19,Student 42 arrives at booth 16,1
+2,14:19,Student 73 departs at booth 4,1
+2,14:19,Student 84 departs at booth 15,1
+2,14:20,Student 40 arrives Art Fair,NA
+2,14:20,Student 66 arrives at booth 4,1
+2,14:20,Student 84 arrives at booth 17,1
+2,14:20,Student 98 departs at booth 11,0
+2,14:21,Student 98 arrives at booth 13,1
+2,14:21,Student 51 departs at booth 19,0
+2,14:22,Student 51 departs Art Fair,NA
+2,14:22,Student 73 arrives at booth 10,1
+2,14:23,Student 40 arrives at booth 5,1
+2,14:23,Student 73 departs at booth 10,0
+2,14:23,Student 86 departs at booth 15,0
+2,14:24,Student 17 arrives at booth 18,1
+2,14:24,Student 49 arrives Art Fair,NA
+2,14:24,Student 86 arrives at booth 17,1
+2,14:24,Student 42 departs at booth 16,0
+2,14:24,Student 84 departs at booth 17,1
+2,14:25,Student 42 arrives at booth 17,1
+2,14:25,Student 49 arrives at booth 2,1
+2,14:25,Student 98 departs at booth 13,0
+2,14:25,Student 56 departs at booth 20,0
+2,14:26,Student 56 departs Art Fair,NA
+2,14:26,Student 83 arrives Art Fair,NA
+2,14:26,Student 84 departs Art Fair,NA
+2,14:26,Student 98 arrives at booth 16,1
+2,14:26,Student 16 departs at booth 4,1
+2,14:27,Student 73 arrives at booth 18,1
+2,14:27,Student 83 arrives at booth 2,1
+2,14:28,Student 16 arrives at booth 7,1
+2,14:28,Student 86 departs at booth 17,1
+2,14:29,Student 40 departs at booth 5,0
+2,14:30,Student 86 departs Art Fair,NA
+2,14:30,Student 16 departs at booth 7,0
+2,14:30,Student 17 departs at booth 18,1
+2,14:30,Student 16 arrives at booth 8,1
+2,14:31,Student 17 arrives at booth 19,1
+2,14:31,Student 76 arrives Art Fair,NA
+2,14:31,Student 98 departs at booth 16,0
+2,14:32,Student 42 departs at booth 17,0
+2,14:33,Student 40 arrives at booth 13,1
+2,14:33,Student 42 arrives at booth 20,1
+2,14:33,Student 76 arrives at booth 4,1
+2,14:33,Student 66 departs at booth 4,1
+2,14:33,Student 16 departs at booth 8,0
+2,14:34,Student 66 arrives at booth 6,1
+2,14:34,Student 78 arrives Art Fair,NA
+2,14:34,Student 98 departs Art Fair,NA
+2,14:35,Student 16 arrives at booth 11,1
+2,14:35,Student 49 departs at booth 2,1
+2,14:35,Student 17 departs at booth 19,0
+2,14:35,Student 17 arrives at booth 20,1
+2,14:36,Student 49 arrives at booth 3,1
+2,14:36,Student 78 arrives at booth 3,2
+2,14:36,Student 80 arrives Art Fair,NA
+2,14:36,Student 73 departs at booth 18,0
+2,14:37,Student 80 arrives at booth 1,1
+2,14:37,Student 16 departs at booth 11,0
+2,14:37,Student 40 departs at booth 13,0
+2,14:37,Student 16 arrives at booth 12,1
+2,14:38,Student 40 arrives at booth 16,1
+2,14:38,Student 73 departs Art Fair,NA
+2,14:39,Student 12 arrives Art Fair,NA
+2,14:39,Student 66 departs at booth 6,0
+2,14:40,Student 12 arrives at booth 2,1
+2,14:40,Student 38 arrives Art Fair,NA
+2,14:40,Student 80 departs at booth 1,0
+2,14:40,Student 76 departs at booth 4,0
+2,14:40,Student 16 departs at booth 12,0
+2,14:41,Student 66 arrives at booth 9,1
+2,14:42,Student 38 arrives at booth 3,2
+2,14:42,Student 76 arrives at booth 7,1
+2,14:42,Student 42 departs at booth 20,1
+2,14:43,Student 42 departs Art Fair,NA
+2,14:43,Student 66 departs at booth 9,0
+2,14:43,Student 40 departs at booth 16,0
+2,14:43,Student 66 arrives at booth 10,1
+2,14:44,Student 16 arrives at booth 20,1
+2,14:44,Student 40 arrives at booth 18,1
+2,14:44,Student 76 departs at booth 7,0
+2,14:44,Student 66 departs at booth 10,0
+2,14:45,Student 25 arrives Art Fair,NA
+2,14:45,Student 80 arrives at booth 11,1
+2,14:45,Student 83 departs at booth 2,1
+2,14:46,Student 25 arrives at booth 2,1
+2,14:46,Student 76 arrives at booth 11,1
+2,14:46,Student 49 departs at booth 3,2
+2,14:47,Student 49 arrives at booth 5,1
+2,14:47,Student 66 arrives at booth 15,1
+2,14:47,Student 80 departs at booth 11,1
+2,14:48,Student 80 arrives at booth 14,1
+2,14:48,Student 83 arrives at booth 7,1
+2,14:49,Student 76 departs at booth 11,0
+2,14:50,Student 76 arrives at booth 13,1
+2,14:50,Student 83 departs at booth 7,0
+2,14:50,Student 40 departs at booth 18,0
+2,14:51,Student 40 arrives at booth 19,1
+2,14:51,Student 83 arrives at booth 10,1
+2,14:51,Student 66 departs at booth 15,0
+2,14:51,Student 17 departs at booth 20,1
+2,14:52,Student 17 departs Art Fair,NA
+2,14:52,Student 22 arrives Art Fair,NA
+2,14:52,Student 66 arrives at booth 17,1
+2,14:52,Student 83 departs at booth 10,0
+2,14:53,Student 49 departs at booth 5,0
+2,14:54,Student 76 departs at booth 13,0
+2,14:55,Student 22 arrives at booth 6,1
+2,14:55,Student 12 departs at booth 2,1
+2,14:55,Student 40 departs at booth 19,0
+2,14:56,Student 40 departs Art Fair,NA
+2,14:56,Student 78 departs at booth 3,1
+2,14:56,Student 66 departs at booth 17,0
+2,14:57,Student 12 arrives at booth 6,1
+2,14:57,Student 49 arrives at booth 13,1
+2,14:57,Student 83 arrives at booth 19,1
+2,14:58,Student 66 departs Art Fair,NA
+2,14:58,Student 76 departs Art Fair,NA
+2,14:58,Student 78 arrives at booth 8,1
+2,14:58,Student 80 departs at booth 14,0
+2,14:59,Student 80 arrives at booth 15,1
+2,15:00,Student 69 arrives Art Fair,NA
+2,15:00,Student 22 departs at booth 6,1
+2,15:00,Student 16 departs at booth 20,0
+2,15:01,Student 16 departs Art Fair,NA
+2,15:01,Student 78 departs at booth 8,0
+2,15:01,Student 49 departs at booth 13,0
+2,15:01,Student 83 departs at booth 19,0
+2,15:02,Student 22 arrives at booth 9,1
+2,15:02,Student 69 arrives at booth 4,1
+2,15:02,Student 83 departs Art Fair,NA
+2,15:02,Student 100 arrives Art Fair,NA
+2,15:03,Student 78 arrives at booth 11,1
+2,15:03,Student 80 departs at booth 15,0
+2,15:04,Student 80 arrives at booth 17,1
+2,15:04,Student 22 departs at booth 9,0
+2,15:05,Student 49 departs Art Fair,NA
+2,15:05,Student 100 arrives at booth 6,1
+2,15:05,Student 25 departs at booth 2,0
+2,15:05,Student 12 departs at booth 6,1
+2,15:05,Student 78 departs at booth 11,0
+2,15:06,Student 12 arrives at booth 8,1
+2,15:06,Student 44 arrives Art Fair,NA
+2,15:06,Student 74 arrives Art Fair,NA
+2,15:06,Student 78 arrives at booth 13,1
+2,15:06,Student 38 departs at booth 3,0
+2,15:07,Student 22 arrives at booth 16,1
+2,15:07,Student 25 arrives at booth 5,1
+2,15:07,Student 44 arrives at booth 2,1
+2,15:07,Student 74 arrives at booth 1,1
+2,15:08,Student 38 arrives at booth 7,1
+2,15:08,Student 80 departs at booth 17,0
+2,15:09,Student 69 departs at booth 4,0
+2,15:09,Student 12 departs at booth 8,0
+2,15:10,Student 9 arrives Art Fair,NA
+2,15:10,Student 80 departs Art Fair,NA
+2,15:10,Student 74 departs at booth 1,0
+2,15:10,Student 100 departs at booth 6,0
+2,15:10,Student 38 departs at booth 7,0
+2,15:10,Student 78 departs at booth 13,0
+2,15:10,Student 74 arrives at booth 2,1
+2,15:11,Student 9 arrives at booth 1,1
+2,15:11,Student 38 arrives at booth 10,1
+2,15:11,Student 100 arrives at booth 7,1
+2,15:12,Student 12 arrives at booth 13,1
+2,15:12,Student 69 arrives at booth 9,1
+2,15:12,Student 38 departs at booth 10,0
+2,15:12,Student 22 departs at booth 16,0
+2,15:13,Student 22 arrives at booth 17,1
+2,15:13,Student 50 arrives Art Fair,NA
+2,15:13,Student 25 departs at booth 5,0
+2,15:13,Student 100 departs at booth 7,0
+2,15:13,Student 25 arrives at booth 6,1
+2,15:14,Student 50 arrives at booth 2,2
+2,15:14,Student 78 departs Art Fair,NA
+2,15:14,Student 9 departs at booth 1,0
+2,15:14,Student 69 departs at booth 9,0
+2,15:15,Student 3 arrives Art Fair,NA
+2,15:15,Student 9 arrives at booth 4,1
+2,15:15,Student 38 arrives at booth 16,1
+2,15:15,Student 69 arrives at booth 12,1
+2,15:15,Student 100 arrives at booth 12,2
+2,15:16,Student 3 arrives at booth 2,3
+2,15:16,Student 12 departs at booth 13,0
+2,15:17,Student 44 departs at booth 2,3
+2,15:17,Student 22 departs at booth 17,0
+2,15:18,Student 21 arrives Art Fair,NA
+2,15:18,Student 25 departs at booth 6,0
+2,15:18,Student 69 departs at booth 12,1
+2,15:19,Student 12 arrives at booth 19,1
+2,15:19,Student 22 departs Art Fair,NA
+2,15:19,Student 23 arrives Art Fair,NA
+2,15:19,Student 69 arrives at booth 14,1
+2,15:20,Student 21 arrives at booth 3,1
+2,15:20,Student 38 departs at booth 16,0
+2,15:21,Student 23 arrives at booth 3,1
+2,15:21,Student 25 arrives at booth 11,1
+2,15:21,Student 38 arrives at booth 18,1
+2,15:21,Student 44 arrives at booth 10,1
+2,15:21,Student 100 departs at booth 12,0
+2,15:22,Student 77 arrives Art Fair,NA
+2,15:22,Student 9 departs at booth 4,0
+2,15:22,Student 44 departs at booth 10,0
+2,15:23,Student 9 arrives at booth 5,1
+2,15:23,Student 18 arrives Art Fair,NA
+2,15:23,Student 44 arrives at booth 12,1
+2,15:23,Student 77 arrives at booth 1,1
+2,15:23,Student 100 arrives at booth 16,1
+2,15:23,Student 25 departs at booth 11,0
+2,15:23,Student 12 departs at booth 19,0
+2,15:24,Student 12 departs Art Fair,NA
+2,15:24,Student 18 arrives at booth 2,3
+2,15:25,Student 25 arrives at booth 16,1
+2,15:26,Student 41 arrives Art Fair,NA
+2,15:26,Student 77 departs at booth 1,0
+2,15:26,Student 44 departs at booth 12,0
+2,15:27,Student 41 arrives at booth 2,4
+2,15:27,Student 74 departs at booth 2,4
+2,15:27,Student 38 departs at booth 18,0
+2,15:28,Student 100 departs at booth 16,1
+2,15:29,Student 13 arrives Art Fair,NA
+2,15:29,Student 38 departs Art Fair,NA
+2,15:29,Student 100 arrives at booth 17,1
+2,15:29,Student 9 departs at booth 5,0
+2,15:29,Student 69 departs at booth 14,0
+2,15:30,Student 44 arrives at booth 19,1
+2,15:30,Student 69 arrives at booth 16,1
+2,15:30,Student 74 arrives at booth 7,1
+2,15:30,Student 77 arrives at booth 9,1
+2,15:30,Student 21 departs at booth 3,1
+2,15:31,Student 13 arrives at booth 3,1
+2,15:31,Student 87 arrives Art Fair,NA
+2,15:32,Student 9 arrives at booth 12,1
+2,15:32,Student 21 arrives at booth 8,1
+2,15:32,Student 74 departs at booth 7,0
+2,15:32,Student 77 departs at booth 9,0
+2,15:32,Student 74 arrives at booth 8,1
+2,15:32,Student 77 arrives at booth 10,1
+2,15:33,Student 87 arrives at booth 3,2
+2,15:33,Student 77 departs at booth 10,0
+2,15:33,Student 25 departs at booth 16,1
+2,15:33,Student 100 departs at booth 17,0
+2,15:34,Student 77 arrives at booth 11,1
+2,15:34,Student 100 arrives at booth 19,1
+2,15:34,Student 44 departs at booth 19,1
+2,15:34,Student 44 arrives at booth 20,1
+2,15:35,Student 25 arrives at booth 19,1
+2,15:35,Student 21 departs at booth 8,1
+2,15:35,Student 9 departs at booth 12,0
+2,15:36,Student 21 arrives at booth 10,1
+2,15:36,Student 77 departs at booth 11,0
+2,15:37,Student 77 arrives at booth 14,1
+2,15:37,Student 50 departs at booth 2,3
+2,15:37,Student 21 departs at booth 10,0
+2,15:38,Student 59 arrives Art Fair,NA
+2,15:38,Student 74 departs at booth 8,0
+2,15:38,Student 69 departs at booth 16,0
+2,15:38,Student 100 departs at booth 19,1
+2,15:39,Student 69 arrives at booth 17,1
+2,15:39,Student 100 departs Art Fair,NA
+2,15:40,Student 9 departs Art Fair,NA
+2,15:40,Student 21 arrives at booth 16,1
+2,15:40,Student 59 arrives at booth 3,3
+2,15:40,Student 23 departs at booth 3,3
+2,15:42,Student 23 arrives at booth 7,1
+2,15:42,Student 50 arrives at booth 11,1
+2,15:42,Student 25 departs at booth 19,0
+2,15:43,Student 25 departs Art Fair,NA
+2,15:43,Student 69 departs at booth 17,0
+2,15:43,Student 44 departs at booth 20,0
+2,15:44,Student 44 departs Art Fair,NA
+2,15:44,Student 74 arrives at booth 19,1
+2,15:44,Student 23 departs at booth 7,0
+2,15:44,Student 50 departs at booth 11,0
+2,15:45,Student 50 arrives at booth 14,1
+2,15:45,Student 69 departs Art Fair,NA
+2,15:45,Student 21 departs at booth 16,0
+2,15:46,Student 21 arrives at booth 18,1
+2,15:47,Student 3 departs at booth 2,2
+2,15:47,Student 77 departs at booth 14,1
+2,15:48,Student 77 arrives at booth 16,1
+2,15:48,Student 74 departs at booth 19,0
+2,15:49,Student 23 arrives at booth 18,1
+2,15:49,Student 74 departs Art Fair,NA
+2,15:50,Student 13 departs at booth 3,2
+2,15:52,Student 3 arrives at booth 12,1
+2,15:52,Student 13 arrives at booth 7,1
+2,15:52,Student 21 departs at booth 18,1
+2,15:53,Student 58 arrives Art Fair,NA
+2,15:53,Student 77 departs at booth 16,0
+2,15:54,Student 21 departs Art Fair,NA
+2,15:54,Student 58 arrives at booth 1,1
+2,15:54,Student 13 departs at booth 7,0
+2,15:55,Student 13 arrives at booth 10,1
+2,15:55,Student 3 departs at booth 12,0
+2,15:56,Student 4 arrives Art Fair,NA
+2,15:56,Student 77 departs Art Fair,NA
+2,15:56,Student 13 departs at booth 10,0
+2,15:57,Student 4 arrives at booth 1,1
+2,15:57,Student 58 departs at booth 1,1
+2,15:57,Student 18 departs at booth 2,1
+2,15:57,Student 50 departs at booth 14,0
+2,15:58,Student 3 arrives at booth 17,1
+2,15:58,Student 47 arrives Art Fair,NA
+2,15:58,Student 50 arrives at booth 15,1
+2,15:58,Student 23 departs at booth 18,0
+2,15:59,Student 47 arrives at booth 1,1
+2,15:59,Student 58 arrives at booth 5,1
+2,16:00,Student 23 departs Art Fair,NA
+2,16:00,Student 4 departs at booth 1,1
+2,16:00,Student 87 departs at booth 3,1
+2,16:01,Student 4 arrives at booth 3,1
+2,16:01,Student 10 arrives Art Fair,NA
+2,16:01,Student 13 departs Art Fair,NA
+2,16:02,Student 18 arrives at booth 11,1
+2,16:02,Student 50 departs at booth 15,0
+2,16:02,Student 3 departs at booth 17,0
+2,16:03,Student 3 arrives at booth 19,1
+2,16:03,Student 87 arrives at booth 9,1
+2,16:03,Student 47 departs at booth 1,0
+2,16:04,Student 50 arrives at booth 19,1
+2,16:04,Student 18 departs at booth 11,0
+2,16:05,Student 10 arrives at booth 8,1
+2,16:05,Student 58 departs at booth 5,0
+2,16:05,Student 87 departs at booth 9,0
+2,16:06,Student 18 arrives at booth 15,1
+2,16:07,Student 19 arrives Art Fair,NA
+2,16:07,Student 58 arrives at booth 9,1
+2,16:07,Student 41 departs at booth 2,0
+2,16:07,Student 3 departs at booth 19,1
+2,16:08,Student 3 departs Art Fair,NA
+2,16:08,Student 41 arrives at booth 3,2
+2,16:08,Student 47 arrives at booth 12,1
+2,16:08,Student 81 arrives Art Fair,NA
+2,16:08,Student 10 departs at booth 8,0
+2,16:09,Student 10 arrives at booth 10,1
+2,16:09,Student 58 departs at booth 9,0
+2,16:10,Student 19 arrives at booth 5,1
+2,16:10,Student 87 arrives at booth 19,1
+2,16:10,Student 59 departs at booth 3,2
+2,16:10,Student 10 departs at booth 10,0
+2,16:10,Student 18 departs at booth 15,0
+2,16:11,Student 81 arrives at booth 5,1
+2,16:11,Student 47 departs at booth 12,0
+2,16:11,Student 50 departs at booth 19,1
+2,16:12,Student 47 arrives at booth 14,1
+2,16:12,Student 50 departs Art Fair,NA
+2,16:12,Student 58 arrives at booth 16,1
+2,16:13,Student 14 arrives Art Fair,NA
+2,16:13,Student 18 departs Art Fair,NA
+2,16:13,Student 59 arrives at booth 9,1
+2,16:14,Student 10 arrives at booth 17,1
+2,16:15,Student 59 departs at booth 9,0
+2,16:15,Student 87 departs at booth 19,0
+2,16:15,Student 59 arrives at booth 10,1
+2,16:15,Student 87 arrives at booth 20,1
+2,16:16,Student 11 arrives Art Fair,NA
+2,16:16,Student 91 arrives Art Fair,NA
+2,16:16,Student 19 departs at booth 5,1
+2,16:16,Student 59 departs at booth 10,0
+2,16:16,Student 19 arrives at booth 6,1
+2,16:17,Student 59 arrives at booth 12,1
+2,16:17,Student 58 departs at booth 16,0
+2,16:18,Student 11 arrives at booth 4,1
+2,16:18,Student 14 arrives at booth 9,1
+2,16:18,Student 58 arrives at booth 17,1
+2,16:18,Student 91 arrives at booth 3,2
+2,16:18,Student 10 departs at booth 17,1
+2,16:19,Student 32 arrives Art Fair,NA
+2,16:20,Student 10 departs Art Fair,NA
+2,16:20,Student 32 arrives at booth 2,1
+2,16:20,Student 4 departs at booth 3,2
+2,16:20,Student 14 departs at booth 9,0
+2,16:20,Student 59 departs at booth 12,0
+2,16:21,Student 7 arrives Art Fair,NA
+2,16:21,Student 14 arrives at booth 12,1
+2,16:21,Student 26 arrives Art Fair,NA
+2,16:21,Student 59 arrives at booth 13,1
+2,16:21,Student 19 departs at booth 6,0
+2,16:22,Student 19 arrives at booth 7,1
+2,16:22,Student 26 arrives at booth 2,1
+2,16:22,Student 81 departs at booth 5,0
+2,16:22,Student 47 departs at booth 14,0
+2,16:22,Student 58 departs at booth 17,0
+2,16:22,Student 81 arrives at booth 6,1
+2,16:23,Student 58 arrives at booth 20,1
+2,16:24,Student 4 arrives at booth 12,1
+2,16:24,Student 7 arrives at booth 5,1
+2,16:24,Student 19 departs at booth 7,0
+2,16:24,Student 14 departs at booth 12,1
+2,16:24,Student 87 departs at booth 20,1
+2,16:24,Student 19 arrives at booth 8,1
+2,16:25,Student 47 arrives at booth 20,1
+2,16:25,Student 87 departs Art Fair,NA
+2,16:25,Student 11 departs at booth 4,0
+2,16:25,Student 59 departs at booth 13,0
+2,16:26,Student 11 arrives at booth 5,1
+2,16:26,Student 14 arrives at booth 16,1
+2,16:26,Student 54 arrives Art Fair,NA
+2,16:27,Student 68 arrives Art Fair,NA
+2,16:27,Student 81 departs at booth 6,0
+2,16:27,Student 19 departs at booth 8,0
+2,16:27,Student 4 departs at booth 12,0
+2,16:28,Student 59 arrives at booth 19,1
+2,16:29,Student 19 arrives at booth 11,1
+2,16:29,Student 45 arrives Art Fair,NA
+2,16:29,Student 68 arrives at booth 3,2
+2,16:29,Student 81 arrives at booth 10,1
+2,16:30,Student 4 arrives at booth 17,1
+2,16:30,Student 54 arrives at booth 7,1
+2,16:30,Student 32 departs at booth 2,1
+2,16:30,Student 41 departs at booth 3,2
+2,16:30,Student 7 departs at booth 5,1
+2,16:30,Student 81 departs at booth 10,0
+2,16:30,Student 41 arrives at booth 4,1
+2,16:31,Student 7 arrives at booth 7,1
+2,16:31,Student 32 arrives at booth 4,1
+2,16:31,Student 19 departs at booth 11,0
+2,16:31,Student 14 departs at booth 16,0
+2,16:31,Student 19 arrives at booth 12,1
+2,16:32,Student 14 arrives at booth 18,1
+2,16:32,Student 81 arrives at booth 13,1
+2,16:32,Student 54 departs at booth 7,1
+2,16:32,Student 59 departs at booth 19,0
+2,16:33,Student 54 arrives at booth 9,1
+2,16:33,Student 59 departs Art Fair,NA
+2,16:33,Student 58 departs at booth 20,1
+2,16:34,Student 45 arrives at booth 9,1
+2,16:34,Student 58 departs Art Fair,NA
+2,16:34,Student 7 departs at booth 7,0
+2,16:34,Student 19 departs at booth 12,0
+2,16:34,Student 4 departs at booth 17,0
+2,16:35,Student 7 arrives at booth 9,2
+2,16:35,Student 61 arrives Art Fair,NA
+2,16:35,Student 54 departs at booth 9,2
+2,16:36,Student 4 departs Art Fair,NA
+2,16:36,Student 54 arrives at booth 12,1
+2,16:36,Student 11 departs at booth 5,0
+2,16:36,Student 81 departs at booth 13,0
+2,16:36,Student 11 arrives at booth 6,1
+2,16:36,Student 81 arrives at booth 14,1
+2,16:37,Student 41 departs at booth 4,1
+2,16:37,Student 45 departs at booth 9,1
+2,16:38,Student 45 arrives at booth 12,1
+2,16:38,Student 14 departs at booth 18,0
+2,16:39,Student 14 arrives at booth 20,1
+2,16:39,Student 19 departs Art Fair,NA
+2,16:39,Student 20 arrives Art Fair,NA
+2,16:39,Student 41 arrives at booth 8,1
+2,16:39,Student 7 departs at booth 9,0
+2,16:39,Student 54 departs at booth 12,1
+2,16:40,Student 20 arrives at booth 1,1
+2,16:40,Student 53 arrives Art Fair,NA
+2,16:40,Student 26 departs at booth 2,0
+2,16:40,Student 91 departs at booth 3,1
+2,16:41,Student 35 arrives Art Fair,NA
+2,16:41,Student 61 arrives at booth 11,1
+2,16:41,Student 91 arrives at booth 6,1
+2,16:41,Student 11 departs at booth 6,1
+2,16:42,Student 2 arrives Art Fair,NA
+2,16:42,Student 11 arrives at booth 7,1
+2,16:42,Student 41 departs at booth 8,0
+2,16:42,Student 45 departs at booth 12,0
+2,16:42,Student 47 departs at booth 20,1
+2,16:43,Student 2 arrives at booth 2,1
+2,16:43,Student 26 arrives at booth 8,1
+2,16:43,Student 41 arrives at booth 10,1
+2,16:43,Student 45 arrives at booth 14,1
+2,16:43,Student 47 departs Art Fair,NA
+2,16:43,Student 53 arrives at booth 6,1
+2,16:43,Student 54 arrives at booth 20,1
+2,16:43,Student 97 arrives Art Fair,NA
+2,16:43,Student 20 departs at booth 1,0
+2,16:43,Student 61 departs at booth 11,0
+2,16:44,Student 7 departs Art Fair,NA
+2,16:44,Student 20 arrives at booth 4,1
+2,16:44,Student 61 arrives at booth 13,1
+2,16:44,Student 32 departs at booth 4,1
+2,16:44,Student 11 departs at booth 7,0
+2,16:44,Student 41 departs at booth 10,0
+2,16:45,Student 35 arrives at booth 7,1
+2,16:46,Student 32 arrives at booth 8,1
+2,16:46,Student 97 arrives at booth 6,2
+2,16:46,Student 91 departs at booth 6,2
+2,16:46,Student 26 departs at booth 8,1
+2,16:46,Student 81 departs at booth 14,1
+2,16:47,Student 11 arrives at booth 14,1
+2,16:47,Student 26 arrives at booth 9,1
+2,16:47,Student 35 departs at booth 7,0
+2,16:48,Student 61 departs at booth 13,0
+2,16:48,Student 61 arrives at booth 14,2
+2,16:49,Student 41 departs Art Fair,NA
+2,16:49,Student 81 arrives at booth 20,2
+2,16:49,Student 91 arrives at booth 12,1
+2,16:49,Student 32 departs at booth 8,0
+2,16:49,Student 26 departs at booth 9,0
+2,16:50,Student 35 arrives at booth 14,3
+2,16:50,Student 68 departs at booth 3,0
+2,16:51,Student 68 arrives at booth 5,1
+2,16:51,Student 20 departs at booth 4,0
+2,16:51,Student 53 departs at booth 6,1
+2,16:51,Student 14 departs at booth 20,2
+2,16:52,Student 14 departs Art Fair,NA
+2,16:52,Student 53 arrives at booth 8,1
+2,16:52,Student 91 departs at booth 12,0
+2,16:53,Student 20 arrives at booth 8,1
+2,16:53,Student 26 arrives at booth 17,1
+2,16:53,Student 32 departs Art Fair,NA
+2,16:53,Student 2 departs at booth 2,0
+2,16:54,Student 2 arrives at booth 3,1
+2,16:54,Student 91 arrives at booth 15,1
+2,16:55,Student 53 departs at booth 8,1
+2,16:56,Student 97 departs at booth 6,0
+2,16:56,Student 45 departs at booth 14,3
+2,16:57,Student 45 arrives at booth 15,1
+2,16:57,Student 53 arrives at booth 11,1
+2,16:57,Student 68 departs at booth 5,0
+2,16:57,Student 26 departs at booth 17,0
+2,16:58,Student 26 arrives at booth 19,1
+2,16:58,Student 68 arrives at booth 7,1
+2,16:58,Student 20 departs at booth 8,0
+2,16:58,Student 91 departs at booth 15,1
+2,16:59,Student 20 arrives at booth 9,1
+2,16:59,Student 88 arrives Art Fair,NA
+2,16:59,Student 53 departs at booth 11,0
+2,17:00,Student 68 departs at booth 7,0
+2,17:00,Student 54 departs at booth 20,1
+2,17:01,Student 54 departs Art Fair,NA
+2,17:01,Student 88 arrives at booth 3,1
+2,17:01,Student 91 departs Art Fair,NA
+2,17:01,Student 20 departs at booth 9,0
+2,17:02,Student 53 arrives at booth 18,1
+2,17:02,Student 97 arrives at booth 17,1
+2,17:02,Student 45 departs at booth 15,0
+2,17:02,Student 26 departs at booth 19,0
+2,17:02,Student 45 arrives at booth 16,1
+2,17:03,Student 26 departs Art Fair,NA
+2,17:04,Student 20 arrives at booth 16,1
+2,17:04,Student 68 arrives at booth 15,1
+2,17:04,Student 2 departs at booth 3,1
+2,17:06,Student 28 arrives Art Fair,NA
+2,17:06,Student 11 departs at booth 14,2
+2,17:06,Student 97 departs at booth 17,0
+2,17:07,Student 65 arrives Art Fair,NA
+2,17:07,Student 97 arrives at booth 20,1
+2,17:07,Student 45 departs at booth 16,1
+2,17:08,Student 45 arrives at booth 17,1
+2,17:08,Student 68 departs at booth 15,0
+2,17:08,Student 53 departs at booth 18,0
+2,17:08,Student 68 arrives at booth 16,1
+2,17:09,Student 2 arrives at booth 14,2
+2,17:09,Student 11 arrives at booth 19,1
+2,17:09,Student 31 arrives Art Fair,NA
+2,17:09,Student 53 arrives at booth 20,2
+2,17:09,Student 65 arrives at booth 4,1
+2,17:09,Student 81 departs at booth 20,2
+2,17:10,Student 36 arrives Art Fair,NA
+2,17:10,Student 81 departs Art Fair,NA
+2,17:11,Student 63 arrives Art Fair,NA
+2,17:12,Student 31 arrives at booth 5,1
+2,17:12,Student 63 arrives at booth 2,1
+2,17:12,Student 20 departs at booth 16,1
+2,17:12,Student 45 departs at booth 17,0
+2,17:13,Student 28 arrives at booth 13,1
+2,17:13,Student 36 arrives at booth 5,1
+2,17:13,Student 11 departs at booth 19,0
+2,17:14,Student 11 departs Art Fair,NA
+2,17:14,Student 45 departs Art Fair,NA
+2,17:14,Student 88 departs at booth 3,0
+2,17:15,Student 20 departs Art Fair,NA
+2,17:16,Student 65 departs at booth 4,0
+2,17:16,Student 61 departs at booth 14,2
+2,17:17,Student 61 arrives at booth 16,1
+2,17:17,Student 65 arrives at booth 6,1
+2,17:17,Student 88 arrives at booth 10,1
+2,17:17,Student 28 departs at booth 13,0
+2,17:17,Student 68 departs at booth 16,1
+2,17:18,Student 28 arrives at booth 16,1
+2,17:18,Student 68 arrives at booth 17,1
+2,17:18,Student 31 departs at booth 5,1
+2,17:18,Student 88 departs at booth 10,0
+2,17:18,Student 97 departs at booth 20,1
+2,17:19,Student 31 arrives at booth 8,1
+2,17:19,Student 97 departs Art Fair,NA
+2,17:20,Student 88 arrives at booth 14,2
+2,17:22,Student 63 departs at booth 2,0
+2,17:22,Student 65 departs at booth 6,0
+2,17:22,Student 31 departs at booth 8,0
+2,17:22,Student 61 departs at booth 16,1
+2,17:22,Student 68 departs at booth 17,0
+2,17:23,Student 61 arrives at booth 17,1
+2,17:23,Student 63 arrives at booth 4,1
+2,17:23,Student 65 arrives at booth 7,1
+2,17:24,Student 68 departs Art Fair,NA
+2,17:24,Student 36 departs at booth 5,0
+2,17:25,Student 31 arrives at booth 14,3
+2,17:25,Student 65 departs at booth 7,0
+2,17:26,Student 35 departs at booth 14,3
+2,17:27,Student 5 arrives Art Fair,NA
+2,17:27,Student 35 arrives at booth 16,1
+2,17:27,Student 95 arrives Art Fair,NA
+2,17:27,Student 28 departs at booth 16,1
+2,17:27,Student 61 departs at booth 17,0
+2,17:27,Student 53 departs at booth 20,0
+2,17:28,Student 5 arrives at booth 1,1
+2,17:28,Student 28 arrives at booth 17,1
+2,17:28,Student 36 arrives at booth 13,1
+2,17:28,Student 53 departs Art Fair,NA
+2,17:28,Student 61 arrives at booth 20,1
+2,17:28,Student 65 arrives at booth 14,3
+2,17:28,Student 95 arrives at booth 1,2
+2,17:30,Student 15 arrives Art Fair,NA
+2,17:30,Student 63 departs at booth 4,0
+2,17:31,Student 15 arrives at booth 1,2
+2,17:31,Student 5 departs at booth 1,2
+2,17:32,Student 63 arrives at booth 8,1
+2,17:32,Student 75 arrives Art Fair,NA
+2,17:32,Student 36 departs at booth 13,0
+2,17:32,Student 35 departs at booth 16,0
+2,17:32,Student 28 departs at booth 17,0
+2,17:33,Student 5 arrives at booth 6,1
+2,17:33,Student 28 arrives at booth 20,1
+2,17:33,Student 35 arrives at booth 18,1
+2,17:34,Student 36 arrives at booth 18,1
+2,17:34,Student 75 arrives at booth 3,1
+2,17:34,Student 95 departs at booth 1,1
+2,17:35,Student 63 departs at booth 8,0
+2,17:36,Student 95 arrives at booth 6,1
+2,17:36,Student 2 departs at booth 14,3
+2,17:37,Student 15 departs at booth 1,0
+2,17:37,Student 61 departs at booth 20,1
+2,17:38,Student 2 arrives at booth 18,2
+2,17:38,Student 61 departs Art Fair,NA
+2,17:38,Student 5 departs at booth 6,1
+2,17:39,Student 8 arrives Art Fair,NA
+2,17:39,Student 35 departs at booth 18,2
+2,17:40,Student 8 arrives at booth 1,1
+2,17:41,Student 35 departs Art Fair,NA
+2,17:41,Student 63 arrives at booth 20,1
+2,17:43,Student 8 departs at booth 1,0
+2,17:43,Student 95 departs at booth 6,0
+2,17:44,Student 5 arrives at booth 17,1
+2,17:44,Student 8 arrives at booth 4,1
+2,17:44,Student 75 departs at booth 3,0
+2,17:44,Student 75 arrives at booth 4,1
+2,17:45,Student 15 arrives at booth 17,1
+2,17:45,Student 36 departs at booth 18,1
+2,17:46,Student 95 arrives at booth 12,1
+2,17:46,Student 88 departs at booth 14,2
+2,17:46,Student 28 departs at booth 20,1
+2,17:47,Student 28 departs Art Fair,NA
+2,17:47,Student 36 departs Art Fair,NA
+2,17:47,Student 88 arrives at booth 15,1
+2,17:48,Student 5 departs at booth 17,1
+2,17:49,Student 95 departs at booth 12,0
+2,17:50,Student 5 departs Art Fair,NA
+2,17:50,Student 95 arrives at booth 13,1
+2,17:51,Student 8 departs at booth 4,1
+2,17:51,Student 88 departs at booth 15,0
+2,17:51,Student 2 departs at booth 18,0
+2,17:51,Student 88 arrives at booth 16,1
+2,17:52,Student 15 departs at booth 17,0
+2,17:53,Student 2 departs Art Fair,NA
+2,17:53,Student 8 arrives at booth 8,1
+2,17:53,Student 15 arrives at booth 19,1
+2,17:54,Student 95 departs at booth 13,0
+2,17:55,Student 63 departs at booth 20,0
+2,17:56,Student 63 departs Art Fair,NA
+2,17:56,Student 8 departs at booth 8,0
+2,17:56,Student 31 departs at booth 14,1
+2,17:56,Student 88 departs at booth 16,0
+2,17:57,Student 8 arrives at booth 9,1
+2,17:57,Student 31 arrives at booth 15,1
+2,17:57,Student 95 arrives at booth 19,1
+2,17:57,Student 15 departs at booth 19,1
+2,17:58,Student 15 departs Art Fair,NA
+2,17:58,Student 75 departs at booth 4,0
+2,17:59,Student 88 departs Art Fair,NA
+2,17:59,Student 8 departs at booth 9,0
+2,18:00,Student 75 arrives at booth 7,1
+2,18:01,Student 31 departs at booth 15,0
+2,18:01,Student 95 departs at booth 19,0
+2,18:02,Student 8 arrives at booth 15,1
+2,18:02,Student 95 departs Art Fair,NA
+2,18:02,Student 75 departs at booth 7,0
+2,18:04,Student 31 departs Art Fair,NA
+2,18:06,Student 75 departs Art Fair,NA
+2,18:06,Student 65 departs at booth 14,0
+2,18:06,Student 8 departs at booth 15,0
+2,18:09,Student 8 departs Art Fair,NA
+2,18:10,Student 65 departs Art Fair,NA
